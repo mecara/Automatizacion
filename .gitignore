@@ -1,0 +1,17 @@
+.metadata/
+basico
+Prueba
+SuraMasivos
+toolsqatest
+vivaairPOM
+vivairPOM
+serenitiScreenplay/bin
+serenitiScreenplay/.settings
+serenitiScreenplay/target
+serenitiScreenplay/.project
+serenitiScreenplay/.classpath
+toolsqaPOM/bin
+toolsqaPOM/.settings
+toolsqaPOM/target
+toolsqaPOM/.project
+toolsqaPOM/.classpath
