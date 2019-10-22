@@ -1,5 +1,8 @@
 package vivair.definitions;
 
+import static net.serenitybdd.screenplay.actors.OnStage.theActorInTheSpotlight;
+import static vivair.tasks.LlenarFormularioTasks.llenarFormulario;
+
 import java.util.List;
 import java.util.Map;
 
@@ -28,15 +31,10 @@ public class vivairDefinitions {
 	}
 
 
-	@When("^ingresa  al formulario da clic en el checbox de solo ida$")
-	public void ingresaAlFormularioDaClicEnElChecboxDeSoloIda() {
-	    // Write code here that turns the phrase above into concrete actions
-	    
-	}
-
-	@When("^se diligencian los datos del formulario$")
-	public void seDiligencianLosDatosDelFormulario(List<Map<String, String >> datos) {
-	    
+	@When("^se diligencian los datos del formulario y selecciono solo ida$")
+	public void seDiligencianLosDatosDelFormulario(List<Map<String, String>> datos) {
+		theActorInTheSpotlight().attemptsTo(llenarFormulario(datos));
+	   
 	   
 	}
 

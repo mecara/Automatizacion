@@ -129,7 +129,7 @@
             <a href="capabilities.html"><i class="fa fa-book"></i> Requirements</a>
         </li>
     </ul>
-    <span class="date-and-time"><a href="build-info.html"><i class="fa fa-info-circle"></i></a> Report generated 07-10-2019 14:31</span>
+    <span class="date-and-time"><a href="build-info.html"><i class="fa fa-info-circle"></i></a> Report generated 22-10-2019 13:53</span>
     <br style="clear:left"/>
 </div>
 
@@ -176,9 +176,9 @@
                 <table class="outcome-header">
                     <tr>
                         <td colspan="2" class="test-title-bar">
-                            <span class="outcome-icon"><i class='far fa-stop-circle pending-icon fa-2x' title='PENDING'></i></span>
+                            <span class="outcome-icon"><i class='fa fa-exclamation-triangle error-icon fa-2x' title='ERROR'></i></span>
                             <span class="test-case-title">
-                                <span class="pending-color">Diligenciar formulario
+                                <span class="error-color">Diligenciar formulario
                                     <span class="related-issue-title"></span>
                                 </span>
                             </span>
@@ -195,13 +195,66 @@
 
     <div id="beforetable"></div>
     <div id="contenttilttle">
+            <div class="screenshotFailure panel panel-danger">
+
+    <div style="display:block">
+        <div class="table">
+            <div class="row">
+                <div class="col-sm-10" style="padding-left:1.5em; padding-top:0.5em; padding-bottom:0.5em;">
+                    <span class="error-message error-message-title">Invalid element state exception: invalid element state: Element must be user-editable in order to clear it.</span>
+                </div>
+                <div class="col-sm-2">
+                    <a class="btn btn-warning details-button" data-toggle="collapse" href="#stacktraceModal-overall""
+                       role="button" aria-expanded="false" aria-controls="multiCollapseExample1"><i class="far fa-eye"></i> More details</a>
+                </div>
+             </div>
+        </div>
+    <div>
+
+    <!-- Details Section -->
+    <div class="row stacktrace-details">
+      <div class="col">
+        <div class="collapse multi-collapse" id="stacktraceModal-overall">
+            <div class="card">
+                <div class="card-header">
+                    <h4>org.openqa.selenium.InvalidElementStateException </h4>
+                </div>
+                <div class="card-body">
+                    <div>
+                        <pre>vivair.tasks.LlenarFormularioTasks.performAs(LlenarFormularioTasks.java:33)<br />vivair.definitions.vivairDefinitions.seDiligencianLosDatosDelFormulario(vivairDefinitions.java:36)<br />cucumber.runner.Runner.runPickle(Runner.java:80)<br />org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:89)<br />org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:41)<br />org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:541)<br />org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:763)<br />org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:463)<br />org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:209)<br /></pre>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+                <div class="panel-body">
+                    <a href="pagesource5078861283885059162.html.txt" target="_blank" class="btn btn-info">HTML Source</a>
+                </div>
+            </div>
         <div class="slider-wrapper theme-default">
             <div id="slider">
-                <img src="5e2fe92016f13b1598ca9e4a28f23b7d95c99fbccdf64746cbc90c382137977c.png" title=" Given el usuario ingresa a la pagina principal de vivaair" width="1366"/>
-                <img src="5e2fe92016f13b1598ca9e4a28f23b7d95c99fbccdf64746cbc90c382137977c.png" title=" When ingresa  al formulario da clic en el checbox de solo ida" width="1366"/>
-                <img src="5e2fe92016f13b1598ca9e4a28f23b7d95c99fbccdf64746cbc90c382137977c.png" title=" And se diligencian los datos del formulario
+                <img src="47f863b4e8022185dc69906a73f36e1ecd4a982f4cc2cb436a027ab3337ecfa8.png" title=" Given el usuario ingresa a la pagina principal de vivaair" width="1366"/>
+                <img src="ec77d26d1ea6e0d61dc400ee977b99ea689ccd1d71561fdddf0dbb2af6cf4c98.png" title=" When se diligencian los datos del formulario y selecciono solo ida
 | origen | destino | fecha_ida | num_pasajeros | moneda |
-| MDE | CUZ | 2019-10-17 | 2 | USD |: <span class='pending-color'>PENDING</span>" width="1366"/>
+| MDE | CUZ | 2019-10-22 | 2 | USD |" width="1366"/>
+                <img src="ec77d26d1ea6e0d61dc400ee977b99ea689ccd1d71561fdddf0dbb2af6cf4c98.png" title=" Meli llenar formulario tasks" width="1366"/>
+                <img src="ec77d26d1ea6e0d61dc400ee977b99ea689ccd1d71561fdddf0dbb2af6cf4c98.png" title=" Meli clicks on origen" width="1366"/>
+                <img src="e13b7a6ec1eacb6948a2aa015ad3f42b2ceddff637bee40b237d63beb77d3a99.png" title=" Meli clicks on origen (completed)" width="1366"/>
+                <img src="e13b7a6ec1eacb6948a2aa015ad3f42b2ceddff637bee40b237d63beb77d3a99.png" title=" Meli clicks on aeropuerto origen" width="1366"/>
+                <img src="17df518696f5bd88d2291841de0af33276db610789434edd0c3057135c25b9f5.png" title=" Meli clicks on aeropuerto origen (completed)" width="1366"/>
+                <img src="17df518696f5bd88d2291841de0af33276db610789434edd0c3057135c25b9f5.png" title=" Meli enters 'MDE' into aeropuerto origen" width="1366"/>
+                <img src="0115d7435a3ba535c8e258b9859ed633f308e597756e1b5177c06d0e2354bf4a.png" title=" Meli enters 'MDE' into aeropuerto origen (completed)" width="1366"/>
+                <img src="0115d7435a3ba535c8e258b9859ed633f308e597756e1b5177c06d0e2354bf4a.png" title=" Meli clicks on aeropuerto destino" width="1366"/>
+                <img src="9d3f15fef710dc83981e151481f73a54a33dd52a82fa2fc79cf9e1804833e751.png" title=" Meli clicks on aeropuerto destino (completed)" width="1366"/>
+                <img src="9d3f15fef710dc83981e151481f73a54a33dd52a82fa2fc79cf9e1804833e751.png" title=" Meli enters 'CUZ' into aeropuerto destino" width="1366"/>
+                <img src="da16c0184dcd3fc49f755dcfc94de58568fecbacc3173da81bd23d1631ad944a.png" title=" Meli enters 'CUZ' into aeropuerto destino (completed)" width="1366"/>
+                <img src="da16c0184dcd3fc49f755dcfc94de58568fecbacc3173da81bd23d1631ad944a.png" title=" Meli clicks on selecciona fecha" width="1366"/>
+                <img src="92350bcb1a5461068d277d7a2dbf5a931bfe51fc3dd02792c5d5b5fb6b652296.png" title=" Meli clicks on selecciona fecha (completed)" width="1366"/>
+                <img src="92350bcb1a5461068d277d7a2dbf5a931bfe51fc3dd02792c5d5b5fb6b652296.png" title=" Meli enters '2019-9-22' into selecciona fecha" width="1366"/>
+                <img src="92350bcb1a5461068d277d7a2dbf5a931bfe51fc3dd02792c5d5b5fb6b652296.png" title=" Meli enters '2019-9-22' into selecciona fecha (completed): <span class='error-color'>ERROR</span>" width="1366"/>
             </div>
         </div>
 

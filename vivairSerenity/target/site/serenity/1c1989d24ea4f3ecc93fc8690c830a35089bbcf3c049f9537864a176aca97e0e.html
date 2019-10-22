@@ -98,7 +98,7 @@
             <a href="capabilities.html"><i class="fa fa-book"></i> Requirements</a>
         </li>
     </ul>
-    <span class="date-and-time"><a href="build-info.html"><i class="fa fa-info-circle"></i></a> Report generated 07-10-2019 14:52</span>
+    <span class="date-and-time"><a href="build-info.html"><i class="fa fa-info-circle"></i></a> Report generated 22-10-2019 13:53</span>
     <br style="clear:left"/>
 </div>
     <div class="clr"></div>
@@ -145,9 +145,9 @@
                 <table class="outcome-header">
                     <tr>
                         <td colspan="2" class="test-title-bar">
-                            <span class="outcome-icon"><i class='far fa-stop-circle pending-icon fa-2x' title='PENDING'></i></span>
+                            <span class="outcome-icon"><i class='fa fa-exclamation-triangle error-icon fa-2x' title='ERROR'></i></span>
                             <span class="test-case-title">
-                                <span class="pending-color">
+                                <span class="error-color">
                                     Diligenciar formulario
                                         <span class="related-issue-title"></span>
                                 </span>
@@ -158,6 +158,47 @@
                 </table>
             </div>
 
+
+                <!-- CAST MEMBERS -->
+                <div>&nbsp;</div>
+                <div class="story-title">
+                    <table class="outcome-header">
+                        <tr>
+                            <td>
+                                <div>
+                                    <h3 class="discreet-story-header">
+                                        <i class="fa fa-2x fa-users"></i>
+                                        <span class="story-header-title">
+                                            <a class="btn btn-primary" data-toggle="collapse" href="#castDetails"
+                                               role="button" aria-expanded="true" aria-controls="castDetails">Cast</a>
+                                        </span>
+                                    </h3>
+
+                                    <div class="cast-member collapse" id="castDetails">
+                                        <table class="cast">
+                                            <tr>
+                                                    <td width="100%">
+                                                        <h4>
+                                                            <i class="fa fa-2x fa-user-o"></i>&nbsp;<span>Meli</span>
+                                                            <h4>
+                                                                <p></p>
+                                                                <ul>
+                                                                        <li><strong>Meli can:</strong>
+                                                                            <ul>
+                                                                                    <li>browse the web</li>
+                                                                            </ul>
+                                                                        </li>
+                                                                </ul>
+                                                    </td>
+                                            </tr>
+                                        </table>
+                                    </div>
+                                </div>
+                            </td>
+                        </tr>
+                    </table>
+                </div>
+                <!-- END CAST MEMBERS -->
 
 
         </div>
@@ -176,21 +217,21 @@
                     <th width="65">                        &nbsp;
                     </th>
 
-                        <th width="%"
-                            class="step-description-wide-column greentext">
+                        <th width="%" class="step-description-column greentext">
                             Steps
                         </th>
+                        <th width="150" class="greentext">Screenshots</th>
                     <th width="130" class="greentext">Outcome</th>
                     <th width="80" class="greentext"><i title="Duration" class="far fa-clock"></i></th>
                 </tr>
                 <tr class="step-table-separator">
                     <td colspan="5"></td>
                 </tr>
-                <tr class="test-PENDING">
+                <tr class="test-SUCCESS">
                     <td width="50" class="step-icon">
                         <a name="0"/>
                             <span style="margin-left: 20px; margin-right: 5px;"
-                                  class="top-level-icon"><i class='far fa-stop-circle pending-icon ' title='PENDING'></i></span>
+                                  class="top-level-icon"><i class='fa fa-check-circle-o success-icon ' title='SUCCESS'></i></span>
                     </td>
                     <td>
                         <div class="step-description">
@@ -201,50 +242,388 @@
                             </span>
                         </div>
                     </td>
-                    <td width="100"><span class="top-level-step">PENDING</span></td>
-                    <td width="100"><span class="top-level-step">0.01s</span></td>
+                        <td width="160" class="SUCCESS-text">
+
+                                <a href="1c1989d24ea4f3ecc93fc8690c830a35089bbcf3c049f9537864a176aca97e0e_screenshots.html#screenshots?screenshot=0">
+                                    <img src="47f863b4e8022185dc69906a73f36e1ecd4a982f4cc2cb436a027ab3337ecfa8.png"
+                                         href="47f863b4e8022185dc69906a73f36e1ecd4a982f4cc2cb436a027ab3337ecfa8.png"
+                                         class="screenshot"
+                                         width="48" height="48"/>
+                                </a>
+                        </td>
+                    <td width="100"><span class="top-level-step">SUCCESS</span></td>
+                    <td width="100"><span class="top-level-step">12.53s</span></td>
                 </tr>
-                <tr class="test-IGNORED">
+                <tr class="test-ERROR">
                     <td width="50" class="step-icon">
                         <a name="1"/>
-                            <span style="margin-left: 20px; margin-right: 5px;"
-                                  class="top-level-icon"><i class='fa fa-ban ignored-icon ' title='IGNORED'></i></span>
+                            <a href="javaScript:void(0)" onClick="toggleDiv('stepSection1')"
+                               style="display:block">
+                                <i class="fa fa-plus-square-o imgstepSection1 error-icon"
+                                   style="margin-left: 20px; float:left;  padding-right:5px"></i>
+                            </a>
                     </td>
                     <td>
                         <div class="step-description">
+                            <a href="javaScript:void(0)" onClick="toggleDiv('stepSection1')"
+                               style="display:block;">
                                 <span class="top-level-step">
-                                When ingresa  al formulario da clic en el checbox de solo ida
+                                When se diligencian los datos del formulario y selecciono solo ida<br><table class='embedded'><thead><th>origen</th><th>destino</th><th>fecha_ida</th><th>num_pasajeros</th><th>moneda</th></thead><tbody><tr><td>MDE</td><td>CUZ</td><td>2019-10-22</td><td>2</td><td>USD</td></tr></tbody></table>
+                            </span>
+                            </a>
+                            <span class="evidence">
+                            </span>
+                        </div>
+                    </td>
+                        <td width="160" class="ERROR-text">
+                                <a href="1c1989d24ea4f3ecc93fc8690c830a35089bbcf3c049f9537864a176aca97e0e_screenshots.html#screenshots?screenshot=1">
+                                    <img src="ec77d26d1ea6e0d61dc400ee977b99ea689ccd1d71561fdddf0dbb2af6cf4c98.png"
+                                         href="ec77d26d1ea6e0d61dc400ee977b99ea689ccd1d71561fdddf0dbb2af6cf4c98.png"
+                                         class="screenshot"
+                                         width="48" height="48"/>
+                                </a>
+                                <i class="fas fa-arrow-right"></i>
+
+                                <a href="1c1989d24ea4f3ecc93fc8690c830a35089bbcf3c049f9537864a176aca97e0e_screenshots.html#screenshots?screenshot=18">
+                                    <img src="92350bcb1a5461068d277d7a2dbf5a931bfe51fc3dd02792c5d5b5fb6b652296.png"
+                                         href="92350bcb1a5461068d277d7a2dbf5a931bfe51fc3dd02792c5d5b5fb6b652296.png"
+                                         class="screenshot"
+                                         width="48" height="48"/>
+                                </a>
+                        </td>
+                    <td width="100"><span class="top-level-step">ERROR</span></td>
+                    <td width="100"><span class="top-level-step">9.6s</span></td>
+                </tr>
+                <tr>
+                    <td colspan="5">
+                        <table id="stepSection1" style="display:none; width:100%">
+
+                <tr class="test-ERROR">
+                    <td width="50" class="step-icon">
+                        <a name="1-0"/>
+                            <a href="javaScript:void(0)" onClick="toggleDiv('stepSection1-0')"
+                               style="display:block">
+                                <i class="fa fa-plus-square-o imgstepSection1-0 error-icon"
+                                   style="margin-left: 40px; float:left;  padding-right:5px"></i>
+                            </a>
+                    </td>
+                    <td>
+                        <div class="step-description">
+                            <a href="javaScript:void(0)" onClick="toggleDiv('stepSection1-0')"
+                               style="display:block;">
+                                <span class="nested-step">
+                                Meli llenar formulario tasks
+                            </span>
+                            </a>
+                            <span class="evidence">
+                            </span>
+                        </div>
+                    </td>
+                        <td width="160" class="ERROR-text">
+                                <a href="1c1989d24ea4f3ecc93fc8690c830a35089bbcf3c049f9537864a176aca97e0e_screenshots.html#screenshots?screenshot=2">
+                                    <img src="ec77d26d1ea6e0d61dc400ee977b99ea689ccd1d71561fdddf0dbb2af6cf4c98.png"
+                                         href="ec77d26d1ea6e0d61dc400ee977b99ea689ccd1d71561fdddf0dbb2af6cf4c98.png"
+                                         class="screenshot"
+                                         width="48" height="48"/>
+                                </a>
+                                <i class="fas fa-arrow-right"></i>
+
+                                <a href="1c1989d24ea4f3ecc93fc8690c830a35089bbcf3c049f9537864a176aca97e0e_screenshots.html#screenshots?screenshot=17">
+                                    <img src="92350bcb1a5461068d277d7a2dbf5a931bfe51fc3dd02792c5d5b5fb6b652296.png"
+                                         href="92350bcb1a5461068d277d7a2dbf5a931bfe51fc3dd02792c5d5b5fb6b652296.png"
+                                         class="screenshot"
+                                         width="48" height="48"/>
+                                </a>
+                        </td>
+                    <td width="100"><span class="nested-step">ERROR</span></td>
+                    <td width="100"><span class="nested-step">7.46s</span></td>
+                </tr>
+                <tr>
+                    <td colspan="5">
+                        <table id="stepSection1-0" style="display:none; width:100%">
+
+                <tr class="test-SUCCESS">
+                    <td width="50" class="step-icon">
+                        <a name="1-0-0"/>
+                            <span style="margin-left: 60px; margin-right: 5px;"
+                                  class="nested-group-icon"><i class='fa fa-check-circle-o success-icon ' title='SUCCESS'></i></span>
+                    </td>
+                    <td>
+                        <div class="step-description">
+                                <span class="nested-group-step">
+                                Meli clicks on origen
                             </span>
                             <span class="evidence">
                             </span>
                         </div>
                     </td>
-                    <td width="100"><span class="top-level-step">IGNORED</span></td>
-                    <td width="100"><span class="top-level-step">0.01s</span></td>
+                        <td width="160" class="SUCCESS-text">
+                                <a href="1c1989d24ea4f3ecc93fc8690c830a35089bbcf3c049f9537864a176aca97e0e_screenshots.html#screenshots?screenshot=3">
+                                    <img src="ec77d26d1ea6e0d61dc400ee977b99ea689ccd1d71561fdddf0dbb2af6cf4c98.png"
+                                         href="ec77d26d1ea6e0d61dc400ee977b99ea689ccd1d71561fdddf0dbb2af6cf4c98.png"
+                                         class="screenshot"
+                                         width="48" height="48"/>
+                                </a>
+                                <i class="fas fa-arrow-right"></i>
+
+                                <a href="1c1989d24ea4f3ecc93fc8690c830a35089bbcf3c049f9537864a176aca97e0e_screenshots.html#screenshots?screenshot=4">
+                                    <img src="e13b7a6ec1eacb6948a2aa015ad3f42b2ceddff637bee40b237d63beb77d3a99.png"
+                                         href="e13b7a6ec1eacb6948a2aa015ad3f42b2ceddff637bee40b237d63beb77d3a99.png"
+                                         class="screenshot"
+                                         width="48" height="48"/>
+                                </a>
+                        </td>
+                    <td width="100"><span class="nested-group-step">SUCCESS</span></td>
+                    <td width="100"><span class="nested-group-step">1.35s</span></td>
                 </tr>
-                <tr class="test-IGNORED">
+                <tr class="test-SUCCESS">
+                    <td width="50" class="step-icon">
+                        <a name="1-0-1"/>
+                            <span style="margin-left: 60px; margin-right: 5px;"
+                                  class="nested-group-icon"><i class='fa fa-check-circle-o success-icon ' title='SUCCESS'></i></span>
+                    </td>
+                    <td>
+                        <div class="step-description">
+                                <span class="nested-group-step">
+                                Meli clicks on aeropuerto origen
+                            </span>
+                            <span class="evidence">
+                            </span>
+                        </div>
+                    </td>
+                        <td width="160" class="SUCCESS-text">
+                                <a href="1c1989d24ea4f3ecc93fc8690c830a35089bbcf3c049f9537864a176aca97e0e_screenshots.html#screenshots?screenshot=5">
+                                    <img src="e13b7a6ec1eacb6948a2aa015ad3f42b2ceddff637bee40b237d63beb77d3a99.png"
+                                         href="e13b7a6ec1eacb6948a2aa015ad3f42b2ceddff637bee40b237d63beb77d3a99.png"
+                                         class="screenshot"
+                                         width="48" height="48"/>
+                                </a>
+                                <i class="fas fa-arrow-right"></i>
+
+                                <a href="1c1989d24ea4f3ecc93fc8690c830a35089bbcf3c049f9537864a176aca97e0e_screenshots.html#screenshots?screenshot=6">
+                                    <img src="17df518696f5bd88d2291841de0af33276db610789434edd0c3057135c25b9f5.png"
+                                         href="17df518696f5bd88d2291841de0af33276db610789434edd0c3057135c25b9f5.png"
+                                         class="screenshot"
+                                         width="48" height="48"/>
+                                </a>
+                        </td>
+                    <td width="100"><span class="nested-group-step">SUCCESS</span></td>
+                    <td width="100"><span class="nested-group-step">0.93s</span></td>
+                </tr>
+                <tr class="test-SUCCESS">
+                    <td width="50" class="step-icon">
+                        <a name="1-0-2"/>
+                            <span style="margin-left: 60px; margin-right: 5px;"
+                                  class="nested-group-icon"><i class='fa fa-check-circle-o success-icon ' title='SUCCESS'></i></span>
+                    </td>
+                    <td>
+                        <div class="step-description">
+                                <span class="nested-group-step">
+                                Meli enters 'MDE' into aeropuerto origen
+                            </span>
+                            <span class="evidence">
+                            </span>
+                        </div>
+                    </td>
+                        <td width="160" class="SUCCESS-text">
+                                <a href="1c1989d24ea4f3ecc93fc8690c830a35089bbcf3c049f9537864a176aca97e0e_screenshots.html#screenshots?screenshot=7">
+                                    <img src="17df518696f5bd88d2291841de0af33276db610789434edd0c3057135c25b9f5.png"
+                                         href="17df518696f5bd88d2291841de0af33276db610789434edd0c3057135c25b9f5.png"
+                                         class="screenshot"
+                                         width="48" height="48"/>
+                                </a>
+                                <i class="fas fa-arrow-right"></i>
+
+                                <a href="1c1989d24ea4f3ecc93fc8690c830a35089bbcf3c049f9537864a176aca97e0e_screenshots.html#screenshots?screenshot=8">
+                                    <img src="0115d7435a3ba535c8e258b9859ed633f308e597756e1b5177c06d0e2354bf4a.png"
+                                         href="0115d7435a3ba535c8e258b9859ed633f308e597756e1b5177c06d0e2354bf4a.png"
+                                         class="screenshot"
+                                         width="48" height="48"/>
+                                </a>
+                        </td>
+                    <td width="100"><span class="nested-group-step">SUCCESS</span></td>
+                    <td width="100"><span class="nested-group-step">1.09s</span></td>
+                </tr>
+                <tr class="test-SUCCESS">
+                    <td width="50" class="step-icon">
+                        <a name="1-0-3"/>
+                            <span style="margin-left: 60px; margin-right: 5px;"
+                                  class="nested-group-icon"><i class='fa fa-check-circle-o success-icon ' title='SUCCESS'></i></span>
+                    </td>
+                    <td>
+                        <div class="step-description">
+                                <span class="nested-group-step">
+                                Meli clicks on aeropuerto destino
+                            </span>
+                            <span class="evidence">
+                            </span>
+                        </div>
+                    </td>
+                        <td width="160" class="SUCCESS-text">
+                                <a href="1c1989d24ea4f3ecc93fc8690c830a35089bbcf3c049f9537864a176aca97e0e_screenshots.html#screenshots?screenshot=9">
+                                    <img src="0115d7435a3ba535c8e258b9859ed633f308e597756e1b5177c06d0e2354bf4a.png"
+                                         href="0115d7435a3ba535c8e258b9859ed633f308e597756e1b5177c06d0e2354bf4a.png"
+                                         class="screenshot"
+                                         width="48" height="48"/>
+                                </a>
+                                <i class="fas fa-arrow-right"></i>
+
+                                <a href="1c1989d24ea4f3ecc93fc8690c830a35089bbcf3c049f9537864a176aca97e0e_screenshots.html#screenshots?screenshot=10">
+                                    <img src="9d3f15fef710dc83981e151481f73a54a33dd52a82fa2fc79cf9e1804833e751.png"
+                                         href="9d3f15fef710dc83981e151481f73a54a33dd52a82fa2fc79cf9e1804833e751.png"
+                                         class="screenshot"
+                                         width="48" height="48"/>
+                                </a>
+                        </td>
+                    <td width="100"><span class="nested-group-step">SUCCESS</span></td>
+                    <td width="100"><span class="nested-group-step">0.79s</span></td>
+                </tr>
+                <tr class="test-SUCCESS">
+                    <td width="50" class="step-icon">
+                        <a name="1-0-4"/>
+                            <span style="margin-left: 60px; margin-right: 5px;"
+                                  class="nested-group-icon"><i class='fa fa-check-circle-o success-icon ' title='SUCCESS'></i></span>
+                    </td>
+                    <td>
+                        <div class="step-description">
+                                <span class="nested-group-step">
+                                Meli enters 'CUZ' into aeropuerto destino
+                            </span>
+                            <span class="evidence">
+                            </span>
+                        </div>
+                    </td>
+                        <td width="160" class="SUCCESS-text">
+                                <a href="1c1989d24ea4f3ecc93fc8690c830a35089bbcf3c049f9537864a176aca97e0e_screenshots.html#screenshots?screenshot=11">
+                                    <img src="9d3f15fef710dc83981e151481f73a54a33dd52a82fa2fc79cf9e1804833e751.png"
+                                         href="9d3f15fef710dc83981e151481f73a54a33dd52a82fa2fc79cf9e1804833e751.png"
+                                         class="screenshot"
+                                         width="48" height="48"/>
+                                </a>
+                                <i class="fas fa-arrow-right"></i>
+
+                                <a href="1c1989d24ea4f3ecc93fc8690c830a35089bbcf3c049f9537864a176aca97e0e_screenshots.html#screenshots?screenshot=12">
+                                    <img src="da16c0184dcd3fc49f755dcfc94de58568fecbacc3173da81bd23d1631ad944a.png"
+                                         href="da16c0184dcd3fc49f755dcfc94de58568fecbacc3173da81bd23d1631ad944a.png"
+                                         class="screenshot"
+                                         width="48" height="48"/>
+                                </a>
+                        </td>
+                    <td width="100"><span class="nested-group-step">SUCCESS</span></td>
+                    <td width="100"><span class="nested-group-step">0.77s</span></td>
+                </tr>
+                <tr class="test-SUCCESS">
+                    <td width="50" class="step-icon">
+                        <a name="1-0-5"/>
+                            <span style="margin-left: 60px; margin-right: 5px;"
+                                  class="nested-group-icon"><i class='fa fa-check-circle-o success-icon ' title='SUCCESS'></i></span>
+                    </td>
+                    <td>
+                        <div class="step-description">
+                                <span class="nested-group-step">
+                                Meli clicks on selecciona fecha
+                            </span>
+                            <span class="evidence">
+                            </span>
+                        </div>
+                    </td>
+                        <td width="160" class="SUCCESS-text">
+                                <a href="1c1989d24ea4f3ecc93fc8690c830a35089bbcf3c049f9537864a176aca97e0e_screenshots.html#screenshots?screenshot=13">
+                                    <img src="da16c0184dcd3fc49f755dcfc94de58568fecbacc3173da81bd23d1631ad944a.png"
+                                         href="da16c0184dcd3fc49f755dcfc94de58568fecbacc3173da81bd23d1631ad944a.png"
+                                         class="screenshot"
+                                         width="48" height="48"/>
+                                </a>
+                                <i class="fas fa-arrow-right"></i>
+
+                                <a href="1c1989d24ea4f3ecc93fc8690c830a35089bbcf3c049f9537864a176aca97e0e_screenshots.html#screenshots?screenshot=14">
+                                    <img src="92350bcb1a5461068d277d7a2dbf5a931bfe51fc3dd02792c5d5b5fb6b652296.png"
+                                         href="92350bcb1a5461068d277d7a2dbf5a931bfe51fc3dd02792c5d5b5fb6b652296.png"
+                                         class="screenshot"
+                                         width="48" height="48"/>
+                                </a>
+                        </td>
+                    <td width="100"><span class="nested-group-step">SUCCESS</span></td>
+                    <td width="100"><span class="nested-group-step">0.84s</span></td>
+                </tr>
+                <tr class="test-ERROR">
+                    <td width="50" class="step-icon">
+                        <a name="1-0-6"/>
+                            <span style="margin-left: 60px; margin-right: 5px;"
+                                  class="nested-group-icon"><i class='fa fa-exclamation-triangle error-icon ' title='ERROR'></i></span>
+                    </td>
+                    <td>
+                        <div class="step-description">
+                                <span class="nested-group-step">
+                                Meli enters '2019-9-22' into selecciona fecha
+                            </span>
+                            <span class="evidence">
+                            </span>
+                        </div>
+                    </td>
+                        <td width="160" class="ERROR-text">
+
+                                <a href="1c1989d24ea4f3ecc93fc8690c830a35089bbcf3c049f9537864a176aca97e0e_screenshots.html#screenshots?screenshot=16">
+                                    <img src="92350bcb1a5461068d277d7a2dbf5a931bfe51fc3dd02792c5d5b5fb6b652296.png"
+                                         href="92350bcb1a5461068d277d7a2dbf5a931bfe51fc3dd02792c5d5b5fb6b652296.png"
+                                         class="screenshot"
+                                         width="48" height="48"/>
+                                </a>
+                        </td>
+                    <td width="100"><span class="nested-group-step">ERROR</span></td>
+                    <td width="100"><span class="nested-group-step">0.72s</span></td>
+                </tr>
+                    <tr class="test-ERROR">
+                        <td width="40">&nbsp</td>
+                        <td width="%" colspan="4" class="error-message-cell">
+
+
+    <div style="display:block">
+        <div class="table">
+            <div class="row">
+                <div class="col-sm-10" style="padding-left:1.5em; padding-top:0.5em; padding-bottom:0.5em;">
+                    <span class="error-message error-message-title">org.openqa.selenium.InvalidElementStateException: invalid element state: Element must be user-editable in order to clear it.<br>  (Session info: chrome=77.0.3865.120)<br>Build info: version: &#39;3.141.59&#39;, revision: &#39;e82be7d358&#39;, time: &#39;2018-11-14T08:17:03&#39;<br>System info: host: &#39;3RO-PQVPF0AEWM2&#39;, ip: &#39;10.201.78.85&#39;, os.name: &#39;Windows 10&#39;, os.arch: &#39;amd64&#39;, os.version: &#39;10.0&#39;, java.version: &#39;1.8.0_191&#39;<br>Driver info: org.openqa.selenium.chrome.ChromeDriver<br>Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 77.0.3865.120, chrome: {chromedriverVersion: 77.0.3865.40 (f484704e052e0..., userDataDir: C:\Users\melicara\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:53951}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}<br>Session ID: ab2e5c8bf7dfe686475d5e586aa62756</span>
+                </div>
+                <div class="col-sm-2">
+                    <a class="btn btn-warning details-button" data-toggle="collapse" href="#stacktraceModal-10""
+                       role="button" aria-expanded="false" aria-controls="multiCollapseExample1"><i class="far fa-eye"></i> More details</a>
+                </div>
+             </div>
+        </div>
+    <div>
+
+    <!-- Details Section -->
+    <div class="row stacktrace-details">
+      <div class="col">
+        <div class="collapse multi-collapse" id="stacktraceModal-10">
+            <div class="card">
+                <div class="card-header">
+                    <h4>org.openqa.selenium.InvalidElementStateException </h4>
+                </div>
+                <div class="card-body">
+                    <div>
+                        <pre>vivair.tasks.LlenarFormularioTasks.performAs(LlenarFormularioTasks.java:33)<br />vivair.definitions.vivairDefinitions.seDiligencianLosDatosDelFormulario(vivairDefinitions.java:36)<br />cucumber.runner.Runner.runPickle(Runner.java:80)<br />org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:89)<br />org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:41)<br />org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:541)<br />org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:763)<br />org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:463)<br />org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:209)<br /></pre>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+                        </td>
+                    </tr>
+
+                        </table>
+                    </td>
+                <tr>
+
+                        </table>
+                    </td>
+                <tr>
+                <tr class="test-SKIPPED">
                     <td width="50" class="step-icon">
                         <a name="2"/>
                             <span style="margin-left: 20px; margin-right: 5px;"
-                                  class="top-level-icon"><i class='fa fa-ban ignored-icon ' title='IGNORED'></i></span>
-                    </td>
-                    <td>
-                        <div class="step-description">
-                                <span class="top-level-step">
-                                And se diligencian los datos del formulario<br><table class='embedded'><thead><th>origen</th><th>destino</th><th>fecha_ida</th><th>num_pasajeros</th><th>moneda</th></thead><tbody><tr><td>MDE</td><td>CUZ</td><td>2019-10-17</td><td>2</td><td>USD</td></tr></tbody></table>
-                            </span>
-                            <span class="evidence">
-                            </span>
-                        </div>
-                    </td>
-                    <td width="100"><span class="top-level-step">IGNORED</span></td>
-                    <td width="100"><span class="top-level-step">0s</span></td>
-                </tr>
-                <tr class="test-IGNORED">
-                    <td width="50" class="step-icon">
-                        <a name="3"/>
-                            <span style="margin-left: 20px; margin-right: 5px;"
-                                  class="top-level-icon"><i class='fa fa-ban ignored-icon ' title='IGNORED'></i></span>
+                                  class="top-level-icon"><i class='fa fa-fast-forward skipped-icon ' title='SKIPPED'></i></span>
                     </td>
                     <td>
                         <div class="step-description">
@@ -255,13 +634,16 @@
                             </span>
                         </div>
                     </td>
-                    <td width="100"><span class="top-level-step">IGNORED</span></td>
+                        <td width="160" class="SKIPPED-text">
+
+                        </td>
+                    <td width="100"><span class="top-level-step">SKIPPED</span></td>
                     <td width="100"><span class="top-level-step">0.01s</span></td>
                 </tr>
-                <tr class="test-PENDING">
-                        <td colspan="2"></td>
-                    <td width="100"><span class="top-level-step"><em>PENDING</em></span></td>
-                    <td width="100"><span class="top-level-step"><em>0.26s</em></span></td>
+                <tr class="test-ERROR">
+                        <td colspan="3"></td>
+                    <td width="100"><span class="top-level-step"><em>ERROR</em></span></td>
+                    <td width="100"><span class="top-level-step"><em>22.48s</em></span></td>
                 </tr>
 
             </table>
