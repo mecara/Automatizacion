@@ -1,20 +1,14 @@
 package vivair.tasks;
 
-import java.lang.reflect.Type;
 import java.util.List;
 import java.util.Map;
-
-import org.joda.time.Seconds;
 
 import net.serenitybdd.screenplay.Actor;
 import net.serenitybdd.screenplay.Task;
 import net.serenitybdd.screenplay.Tasks;
 import net.serenitybdd.screenplay.actions.Click;
 import net.serenitybdd.screenplay.actions.Enter;
-import net.serenitybdd.screenplay.actions.EnterValue;
 import net.serenitybdd.screenplay.matchers.WebElementStateMatchers;
-import net.serenitybdd.screenplay.matchers.statematchers.IsVisibleMatcher;
-import net.serenitybdd.screenplay.targets.Target;
 import net.serenitybdd.screenplay.waits.WaitUntil;
 import vivair.ui.FormularioUI;
 import vivair.utils.Fecha;
@@ -39,16 +33,21 @@ public class LlenarFormularioTasks implements Task{
 			Click.on(FormularioUI.SELECCIONA_DESTINO),
 			Enter.theValue("CUZ").into(FormularioUI.SELECCIONA_DESTINO),
 			Click.on(FormularioUI.SELECCIONA_FECHA),
-			Enter.theValue(Fecha.myFecha().generarFecha()).into(FormularioUI.SELECCIONA_FECHA));
+			Click.on(FormularioUI.ClickFecha(Fecha.generarFecha())),
+			Click.on(FormularioUI.PASAJERO),
+			Click.on(FormularioUI.ADULTO),
+			Click.on(FormularioUI.PASAJERO),
+			Click.on(FormularioUI.LISTA_MONEDA),
+			Click.on(FormularioUI.ClickMoneda(this.datosFormulario.get(0).get("moneda")))
 			
-		
-				
-			
-		
+		);
+			// Enter.theValue(Fecha.myFecha().generarFecha()).into(FormularioUI.SELECCIONA_FECHA));
 	}
 	
 	public static LlenarFormularioTasks llenarFormulario(List<Map<String, String>>datosFormulario) {
 		return Tasks.instrumented(LlenarFormularioTasks.class, datosFormulario);
 	}
-
+	
 }
+
+	

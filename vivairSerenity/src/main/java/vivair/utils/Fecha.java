@@ -5,22 +5,18 @@ import java.util.GregorianCalendar;
 public class Fecha {
 	
 
-	public String generarFecha() {
+	public static String generarFecha() { 
 		Calendar fecha = new GregorianCalendar();
 	
 		
 		int a = fecha.get(Calendar.YEAR);
-		int m = fecha.get(Calendar.MONTH);
+		int m = fecha.get(Calendar.MONTH) + 1;
 		int d = fecha.get(Calendar.DAY_OF_MONTH);
 		
 		return a + "-" + m + "-" + d;
 	}
-		
-	
-	public static Fecha myFecha() {
-		return new Fecha();
-		
-	}
 }
+
+//no se crea la instancia ya que el método "generar fecha" no guarda ningún dato, sólo realiza una operación
 	
 

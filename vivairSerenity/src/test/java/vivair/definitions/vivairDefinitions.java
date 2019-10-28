@@ -10,9 +10,11 @@ import cucumber.api.java.Before;
 import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
+import net.serenitybdd.screenplay.Performable;
 import net.serenitybdd.screenplay.abilities.BrowseTheWeb;
 import net.serenitybdd.screenplay.actors.Cast;
 import net.serenitybdd.screenplay.actors.OnStage;
+import vivair.tasks.BuscarVuelosTasks;
 import vivair.utils.Driver;
 
 public class vivairDefinitions {
@@ -40,7 +42,7 @@ public class vivairDefinitions {
 
 	@Then("^doy clic en buscar vuelos valido los vuelos disponibles$")
 	public void doyClicEnBuscarVuelosValidoLosVuelosDisponibles() {
-	    // Write code here that turns the phrase above into concrete actions
+	    theActorInTheSpotlight().attemptsTo(BuscarVuelosTasks.BuscaVuelo());
 	  
 	}
 
