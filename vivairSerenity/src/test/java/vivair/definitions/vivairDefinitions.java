@@ -42,7 +42,7 @@ public class vivairDefinitions {
 
 	@Then("^doy clic en buscar vuelos valido los vuelos disponibles$")
 	public void doyClicEnBuscarVuelosValidoLosVuelosDisponibles() {
-	    theActorInTheSpotlight().attemptsTo(BuscarVuelosTasks.BuscaVuelo());
+//	    theActorInTheSpotlight().attemptsTo(BuscarVuelosTasks.BuscaVuelo());
 	  
 	}
 

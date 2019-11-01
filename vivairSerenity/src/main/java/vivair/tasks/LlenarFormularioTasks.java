@@ -3,6 +3,8 @@ package vivair.tasks;
 import java.util.List;
 import java.util.Map;
 
+import org.openqa.selenium.Keys;
+
 import net.serenitybdd.screenplay.Actor;
 import net.serenitybdd.screenplay.Task;
 import net.serenitybdd.screenplay.Tasks;
@@ -24,23 +26,29 @@ public class LlenarFormularioTasks implements Task{
 
 	@Override
 	public <T extends Actor> void performAs(T actor) {
+		
+		System.out.println("iMPRIMIENDO FECHAAAAAAAAAAAAAAA: " + Fecha.generarFecha());
 		actor.attemptsTo(
 			WaitUntil.the(FormularioUI.ORIGEN_TARGET, WebElementStateMatchers.isCurrentlyVisible()),
 			Click.on(FormularioUI.ORIGEN_TARGET),
 			Click.on(FormularioUI.SELECCIONA_ORIGEN),
-			Enter.theValue("MDE").into(FormularioUI.SELECCIONA_ORIGEN),
+			Enter.theValue(datosFormulario.get(0).get("origen")).into(FormularioUI.SELECCIONA_ORIGEN).thenHit(Keys.ENTER),
 			//WaitUntil.the(FormularioUI.LISTADO_ORIGEN, WebElementStateMatchers.isCurrentlyEnabled()),
 			Click.on(FormularioUI.SELECCIONA_DESTINO),
-			Enter.theValue("CUZ").into(FormularioUI.SELECCIONA_DESTINO),
-			Click.on(FormularioUI.SELECCIONA_FECHA),
-			Click.on(FormularioUI.ClickFecha(Fecha.generarFecha())),
-			Click.on(FormularioUI.PASAJERO),
-			Click.on(FormularioUI.ADULTO),
-			Click.on(FormularioUI.PASAJERO),
-			Click.on(FormularioUI.LISTA_MONEDA),
-			Click.on(FormularioUI.ClickMoneda(this.datosFormulario.get(0).get("moneda")))
+			Enter.theValue(datosFormulario.get(0).get("destino")).into(FormularioUI.SELECCIONA_DESTINO).thenHit(Keys.ENTER),
+			//WaitUntil.the(FormularioUI.SELECCIONA_FECHA, WebElementStateMatchers.isCurrentlyEnabled()),
+//			Click.on(FormularioUI.SELECCIONA_FECHA)
+//			);
+			Click.on(FormularioUI.CLICK_FECHA.of(Fecha.generarFecha())));
+			//Click.on(FormularioUI.ClickFecha(Fecha.generarFecha())),
+//			Click.on(FormularioUI.PASAJERO),
+//			Click.on(FormularioUI.ADULTO),
+//			Click.on(FormularioUI.PASAJERO),
+//			Click.on(FormularioUI.LISTA_MONEDA),
+//			Click.on(FormularioUI.CLICK_MONEDA.of(this.datosFormulario.get(0).get("moneda"))) //of los parametros deseados en el target en este caso
+			//Click.on(FormularioUI.ClickMoneda(this.datosFormulario.get(0).get("moneda")))
 			
-		);
+//		);
 			// Enter.theValue(Fecha.myFecha().generarFecha()).into(FormularioUI.SELECCIONA_FECHA));
 	}
 	
