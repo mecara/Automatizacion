@@ -10,7 +10,6 @@ import cucumber.api.java.Before;
 import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
-import net.serenitybdd.screenplay.Performable;
 import net.serenitybdd.screenplay.abilities.BrowseTheWeb;
 import net.serenitybdd.screenplay.actors.Cast;
 import net.serenitybdd.screenplay.actors.OnStage;
@@ -37,14 +36,20 @@ public class vivairDefinitions {
 	public void seDiligencianLosDatosDelFormulario(List<Map<String, String>> datos) {
 		theActorInTheSpotlight().attemptsTo(llenarFormulario(datos));
 	   
-	   
+	
 	}
 
-	@Then("^doy clic en buscar vuelos valido los vuelos disponibles$")
-	public void doyClicEnBuscarVuelosValidoLosVuelosDisponibles() {
-//	    theActorInTheSpotlight().attemptsTo(BuscarVuelosTasks.BuscaVuelo());
+	@Then("^doy clic en buscar vuelos valido los vuelos disponibles en (.*)$")
+	public void doyClicEnBuscarVuelosValidoLosVuelosDisponibles(String moneda) {
+	    theActorInTheSpotlight().attemptsTo(BuscarVuelosTasks.BuscaVuelo(moneda));
 	  
 	}
+	
+//	@Then("^selecciono el vuelo mas barato$")
+//	public void seleccionoElVueloMasBarato() {
+//		theActorInTheSpotlight().attemptsTo(BuscarVuelosTasks.BuscaVuelo());
+//	    
+//	}
 
 	
 }

@@ -1,0 +1,590 @@
+<html lang="es-co" class=""><head><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width,initial-scale=1"><meta itemprop="name" content="Viva Air | Vuelos Baratos a Destinos Nacionales &amp; Internacionales"><meta property="og:title" content="Viva Air | Vuelos Baratos a Destinos Nacionales &amp; Internacionales"><meta name="twitter:title" content="Viva Air | Vuelos Baratos a Destinos Nacionales &amp; Internacionales"><meta name="description" content="Encuentra promociones en vuelos a destinos nacionales &amp; internacionales y viaja con la aerolínea más puntual"><meta itemprop="description" content="Encuentra promociones en vuelos a destinos nacionales &amp; internacionales y viaja con la aerolínea más puntual"><meta property="og:description" content="Encuentra promociones en vuelos a destinos nacionales &amp; internacionales y viaja con la aerolínea más puntual"><meta name="twitter:description" content="Encuentra promociones en vuelos a destinos nacionales &amp; internacionales y viaja con la aerolínea más puntual"><meta itemprop="image" content="/static/img/logo.svg"><meta property="og:image" content="/static/img/logo.svg"><meta name="twitter:image" content="/static/img/logo.svg"><meta property="og:url" content=""><meta name="twitter:url" content=""><meta property="og:type" content="website"><meta name="google-site-verification" content="OZv13g8Pr9vU-gokIm-Gh0Bp22oR0l9XIHqa_jnPQ4M"><title>Viva Air | Vuelos Baratos a Destinos Nacionales &amp; Internacionales</title><link rel="icon" type="image/png" sizes="32x32" href="/static/img/icons/vivaair/favicon-32x32.png?v=2"><link rel="icon" type="image/png" sizes="16x16" href="/static/img/icons/vivaair/favicon-16x16.png?v=2"><!--[if IE]><link rel="shortcut icon" href="/static/img/icons/favicon.ico?v=2"/><![endif]--><link rel="manifest" href="/static/manifests/vivaair/manifest.json"><meta name="theme-color" content="#ffda00"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-status-bar-style" content="black"><meta name="apple-mobile-web-app-title" content="vivaair-pwa"><link rel="apple-touch-icon" href="/static/img/icons/vivaair/apple-icon-152x152.png"><meta name="msapplication-TileImage" content="/static/img/icons/vivaair/msapplication-icon-144x144.png"><meta name="msapplication-TileColor" content="#000000"><link rel="preconnect" href="https://ezy-api.vivaair.com" crossorigin=""><link rel="preload" href="https://fonts.googleapis.com/icon?family=Material+Icons" as="style"><link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"><link href="https://fonts.googleapis.com/css?family=Muli:200,400,900i" rel="stylesheet"><style>body {
+        padding: 0;
+        margin: 0;
+      }
+      #static-startpage header {
+        padding: 5px 5px 0;
+        background-color: #ffda00;
+        text-align: center;
+      }
+      #static-startpage header img {
+        width: 180px;
+      }</style><style>.async-hide .app #search {
+        opacity: 0 !important;
+      }</style><script type="text/javascript" async="" src="https://www.google-analytics.com/plugins/ua/ec.js"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/gtm/js?id=GTM-WF6B33T&amp;t=gtm1&amp;cid=131479638.1572908336"></script><script type="text/javascript" async="" src="https://d1mj578wat5n4o.cloudfront.net/boxever-1.3.2.min.js"></script><script src="https://s.yimg.com/wi/ytc.js" async=""></script><script src="https://connect.facebook.net/signals/config/361054207590981?v=2.9.5&amp;r=stable" async=""></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="//static.hotjar.com/c/hotjar-1323886.js?sv=5"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script id="scarab-js-api" src="//cdn.scarabresearch.com/js/1F1A12C685554CF6/scarab-v2.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-WB5JLNZ"></script><script type="text/javascript" src="https://www.datadoghq-browser-agent.com/datadog-logs-us.js"></script><script>DD_LOGS.init({
+        clientToken: 'pub45dff2ca25f0f96ffa3725d4e2fb8be9',
+        forwardErrorsToLogs: true,
+      })
+      DD_LOGS.addLoggerGlobalContext('version', '0.2.3589')
+      DD_LOGS.addLoggerGlobalContext(
+        'env',
+        'Production'
+      )</script><script>window.prismic = {
+        endpoint: 'https://vivaair.prismic.io/api/v2',
+      }</script><script async="" src="https://static.cdn.prismic.io/prismic.min.js"></script><script type="text/javascript">window.runtimeConfig = {"apiHost":"https://ezy-api.vivaair.com","environment":"Production","dataDog":{"enabled":true,"clientToken":"pub45dff2ca25f0f96ffa3725d4e2fb8be9"},"features":{"verbose_api_messages_enabled":true},"google":{"clientId":"960625861781-u0g71ps1044ej61qkbej1uhbotpbof11.apps.googleusercontent.com"},"facebook":{"appId":"172609033180326"},"googleTagManger":{"id":"GTM-WB5JLNZ"}}</script><script>;(function(w, d, s, l, i) {
+        if (window.location.search.indexOf('externalscripts=off') !== -1) return
+        w[l] = w[l] || []
+        w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' })
+        var f = d.getElementsByTagName(s)[0],
+          j = d.createElement(s),
+          dl = l != 'dataLayer' ? '&l=' + l : ''
+        j.async = true
+        j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl
+        f.parentNode.insertBefore(j, f)
+      })(window, document, 'script', 'dataLayer', window.runtimeConfig.googleTagManger.id)</script><link href="/static/css/app.9c299de32d8dd2caadbe.css" rel="stylesheet"><link href="/static/css/vendors~app.6dd8d38e0f76f54c3c24.css" rel="stylesheet"><style type="text/css">
+.vue-modal-resizer {
+  display: block;
+  overflow: hidden;
+  position: absolute;
+  width: 12px;
+  height: 12px;
+  right: 0;
+  bottom: 0;
+  z-index: 9999999;
+  background: transparent;
+  cursor: se-resize;
+}
+.vue-modal-resizer::after {
+  display: block;
+  position: absolute;
+  content: '';
+  background: transparent;
+  left: 0;
+  top: 0;
+  width: 0;
+  height: 0;
+  border-bottom: 10px solid #ddd;
+  border-left: 10px solid transparent;
+}
+.vue-modal-resizer.clicked::after {
+  border-bottom: 10px solid #369be9;
+}
+</style><style type="text/css">
+.v--modal-block-scroll {
+  overflow: hidden;
+  width: 100vw;
+}
+.v--modal-overlay {
+  position: fixed;
+  box-sizing: border-box;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100vh;
+  background: rgba(0, 0, 0, 0.2);
+  z-index: 999;
+  opacity: 1;
+}
+.v--modal-overlay.scrollable {
+  height: 100%;
+  min-height: 100vh;
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
+}
+.v--modal-overlay .v--modal-background-click {
+  width: 100%;
+  min-height: 100%;
+  height: auto;
+}
+.v--modal-overlay .v--modal-box {
+  position: relative;
+  overflow: hidden;
+  box-sizing: border-box;
+}
+.v--modal-overlay.scrollable .v--modal-box {
+  margin-bottom: 2px;
+}
+.v--modal {
+  background-color: white;
+  text-align: left;
+  border-radius: 3px;
+  box-shadow: 0 20px 60px -2px rgba(27, 33, 58, 0.4);
+  padding: 0;
+}
+.v--modal.v--modal-fullscreen {
+  width: 100vw;
+  height: 100vh;
+  margin: 0;
+  left: 0;
+  top: 0;
+}
+.v--modal-top-right {
+  display: block;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+.overlay-fade-enter-active,
+.overlay-fade-leave-active {
+  transition: all 0.2s;
+}
+.overlay-fade-enter,
+.overlay-fade-leave-active {
+  opacity: 0;
+}
+.nice-modal-fade-enter-active,
+.nice-modal-fade-leave-active {
+  transition: all 0.4s;
+}
+.nice-modal-fade-enter,
+.nice-modal-fade-leave-active {
+  opacity: 0;
+  transform: translateY(-20px);
+}
+</style><style type="text/css">
+.vue-dialog div {
+  box-sizing: border-box;
+}
+.vue-dialog .dialog-flex {
+  width: 100%;
+  height: 100%;
+}
+.vue-dialog .dialog-content {
+  flex: 1 0 auto;
+  width: 100%;
+  padding: 15px;
+  font-size: 14px;
+}
+.vue-dialog .dialog-c-title {
+  font-weight: 600;
+  padding-bottom: 15px;
+}
+.vue-dialog .dialog-c-text {
+}
+.vue-dialog .vue-dialog-buttons {
+  display: flex;
+  flex: 0 1 auto;
+  width: 100%;
+  border-top: 1px solid #eee;
+}
+.vue-dialog .vue-dialog-buttons-none {
+  width: 100%;
+  padding-bottom: 15px;
+}
+.vue-dialog-button {
+  font-size: 12px !important;
+  background: transparent;
+  padding: 0;
+  margin: 0;
+  border: 0;
+  cursor: pointer;
+  box-sizing: border-box;
+  line-height: 40px;
+  height: 40px;
+  color: inherit;
+  font: inherit;
+  outline: none;
+}
+.vue-dialog-button:hover {
+  background: rgba(0, 0, 0, 0.01);
+}
+.vue-dialog-button:active {
+  background: rgba(0, 0, 0, 0.025);
+}
+.vue-dialog-button:not(:first-of-type) {
+  border-left: 1px solid #eee;
+}
+</style><style type="text/css">.agile{position:relative}.agile:active,.agile :active,.agile:focus,.agile :focus{outline:none}.agile__list{display:block;overflow:hidden;position:relative;width:100%}.agile__track{-ms-flex-align:center;align-items:center;display:-ms-flexbox;display:flex;-ms-flex-pack:start;justify-content:flex-start}.agile--disabled .agile__track,.agile__slide{display:block}.agile--fade .agile__slide{opacity:0;position:relative;z-index:0}.agile--fade .agile__slide--active{opacity:1;z-index:2}.agile--fade .agile__slide--expiring{opacity:1;transition-duration:0s;z-index:1}.agile__arrow[disabled]{cursor:default}.agile__dots{-ms-flex-align:center;align-items:center;display:-ms-flexbox;display:flex;list-style:none;margin:0;padding:0;white-space:nowrap}.agile__dot button{cursor:pointer;display:block;font-size:0;line-height:0}</style><style type="text/css">
+.VueCarousel-navigation-button[data-v-453ad8cd] {
+  position: absolute;
+  top: 50%;
+  box-sizing: border-box;
+  color: #000;
+  text-decoration: none;
+  appearance: none;
+  border: none;
+  background-color: transparent;
+  padding: 0;
+  cursor: pointer;
+  outline: none;
+}
+.VueCarousel-navigation-next[data-v-453ad8cd] {
+  right: 0;
+  transform: translateY(-50%) translateX(100%);
+  font-family: "system";
+}
+.VueCarousel-navigation-prev[data-v-453ad8cd] {
+  left: 0;
+  transform: translateY(-50%) translateX(-100%);
+  font-family: "system";
+}
+.VueCarousel-navigation--disabled[data-v-453ad8cd] {
+  opacity: 0.5;
+  cursor: default;
+}
+
+/* Define the "system" font family */
+@font-face {
+  font-family: system;
+  font-style: normal;
+  font-weight: 300;
+  src: local(".SFNSText-Light"), local(".HelveticaNeueDeskInterface-Light"),
+    local(".LucidaGrandeUI"), local("Ubuntu Light"), local("Segoe UI Symbol"),
+    local("Roboto-Light"), local("DroidSans"), local("Tahoma");
+}
+</style><style type="text/css">
+.VueCarousel-pagination[data-v-438fd353] {
+  width: 100%;
+  text-align: center;
+}
+.VueCarousel-dot-container[data-v-438fd353] {
+  display: inline-block;
+  margin: 0 auto;
+  padding: 0;
+}
+.VueCarousel-dot[data-v-438fd353] {
+  display: inline-block;
+  cursor: pointer;
+}
+.VueCarousel-dot-button[data-v-438fd353] {
+  appearance: none;
+  border: none;
+  background-color: transparent;
+  padding: 0;
+  border-radius: 100%;
+  outline: none;
+  cursor: pointer;
+}
+.VueCarousel-dot-button[data-v-438fd353]:focus {
+  outline: 1px solid lightblue;
+}
+</style><style type="text/css">
+.VueCarousel-slide {
+  flex-basis: inherit;
+  flex-grow: 0;
+  flex-shrink: 0;
+  user-select: none;
+  backface-visibility: hidden;
+  -webkit-touch-callout: none;
+  outline: none;
+}
+.VueCarousel-slide-adjustableHeight {
+  display: table;
+  flex-basis: auto;
+  width: 100%;
+}
+</style><style type="text/css">
+.VueCarousel {
+  position: relative;
+}
+.VueCarousel-wrapper {
+  width: 100%;
+  position: relative;
+  overflow: hidden;
+}
+.VueCarousel-inner {
+  display: flex;
+  flex-direction: row;
+  backface-visibility: hidden;
+}
+.VueCarousel-inner--center {
+  justify-content: center;
+}
+</style><link rel="stylesheet" type="text/css" href="/static/css/48.2925b07ceceb8e2aa4f1.css"><script charset="utf-8" src="/static/js/48.3e8ddb6c88b6557ea79a.js"></script><script>
+    var ScarabQueue = ScarabQueue || [];
+    (function(id) {
+        if (document.getElementById(id)) return;
+        var js = document.createElement('script'); js.id = id;
+        js.src = '//cdn.scarabresearch.com/js/1F1A12C685554CF6/scarab-v2.js';
+        var fs = document.getElementsByTagName('script')[0];
+        fs.parentNode.insertBefore(js, fs);
+    })('scarab-js-api');
+    </script><script>(function(a, s, y, n, c, h, i, d, e) {
+        s.className += ' ' + y
+        h.end = i = function() {
+          s.className = s.className.replace(RegExp(' ?' + y), '')
+        }
+        ;(a[n] = a[n] || []).hide = h
+        setTimeout(function() {
+          i()
+          h.end = null
+        }, c)
+      })(window, document.documentElement, 'async-hide', 'dataLayer', 8000, { 'GTM-WB5JLNZ': true })
+      </script><script src="https://www.googletagservices.com/tag/js/gpt.js"></script><script>window.googletag = window.googletag || {}; window.googletag.cmd = window.googletag.cmd || [];  window.gptadslots = []</script><iframe src="https://vivaair.prismic.io/toolbar/bootstrap"></iframe><script type="text/javascript" async="" src="//www.rtb123.com/tags/C37D0BFC-8B0C-4CBD-A0CE-E426CA8DD8A0/btp.js"></script><link rel="stylesheet" type="text/css" href="/static/css/36.6af22b761479675136fc.css"><script charset="utf-8" src="/static/js/36.74083a1bb9f5553873e4.js"></script><style type="text/css">.v-facebook-login[data-v-163870a6] {
+  cursor: default;
+  min-width: 15rem;
+  color: #ffffff;
+  box-sizing: border-box;
+  border: 1px solid rgba(255, 255, 255, 0.05);
+  margin: 0;
+  padding-top: 0.5rem;
+  padding-left: 1.275rem;
+  padding-right: 1.275rem;
+  padding-bottom: 0.5rem;
+  display: flex;
+  align-items: center;
+  border-radius: 0.25rem;
+  justify-content: center;
+  background-color: #3c57a4;
+}
+.v-facebook-login *[data-v-163870a6],
+  .v-facebook-login *[data-v-163870a6]::before,
+  .v-facebook-login *[data-v-163870a6]::after {
+    box-sizing: inherit;
+}
+.v-facebook-login[disabled][data-v-163870a6] {
+    opacity: 0.75;
+}
+.v-facebook-login[data-v-163870a6]:hover {
+    background-color: #425fb3;
+}
+.v-facebook-login[data-v-163870a6]:focus {
+    outline-width: 0;
+    box-shadow: 0 0 0 1px rgba(139, 157, 195, 0.5);
+}
+.token[data-v-163870a6] {
+  margin-right: 0.2rem;
+  transform: translateX(-0.5rem);
+}
+.loader[data-v-163870a6] {
+  display: block;
+  border-radius: 50%;
+  border-style: solid;
+  border-width: 0.1rem;
+  border-top-color: #8b9dc3;
+  border-right-color: white;
+  border-left-color: white;
+  border-bottom-color: white;
+  animation: v-facebook-login-spin-data-v-163870a6 2s linear infinite;
+}
+.loader[data-v-163870a6] {
+  height: 1.5rem;
+  margin-right: 0.5rem;
+}
+.token[data-v-163870a6],
+.loader[data-v-163870a6] {
+  opacity: 0.9;
+  width: 1.5rem;
+}
+@keyframes v-facebook-login-spin-data-v-163870a6 {
+0% {
+    transform: rotate(0deg);
+}
+100% {
+    transform: rotate(360deg);
+}
+}
+</style><link rel="preload" href="https://adservice.google.com.co/adsid/integrator.js?domain=www.vivaair.com" as="script"><script type="text/javascript" src="https://adservice.google.com.co/adsid/integrator.js?domain=www.vivaair.com"></script><link rel="preload" href="https://adservice.google.com/adsid/integrator.js?domain=www.vivaair.com" as="script"><script type="text/javascript" src="https://adservice.google.com/adsid/integrator.js?domain=www.vivaair.com"></script><script src="https://securepubads.g.doubleclick.net/gpt/pubads_impl_2019103101.js" async=""></script><script async="" src="https://script.hotjar.com/modules.5f04b18371f1e255a471.js" charset="utf-8"></script><style type="text/css">iframe#_hjRemoteVarsFrame {display: none !important; width: 1px !important; height: 1px !important; opacity: 0 !important; pointer-events: none !important;}</style><script src="https://coregateway.fusion.com/content/js/VA/fusionscript.min.js?refreshKey=2019110417" id="fusionScript"></script><link href="https://coregateway.fusion.com/content/css/VA/fusionstyles.css?refreshKey=2019110417" rel="stylesheet"><script type="application/ld+json">{"@context":"http://schema.org/","@type":"Airline","iataCode":"vivaair","address":{"@type":"PostalAddress","addressCountry":"Colombia","addressLocality":"Rionegro","addressRegion":"Antioquia","streetAddress":"La Gran Via El Porvenir"},"telephone":["Medellín: (4) 6044900","Barranquilla: (5) 3855555","Cali: (2) 4856666","Cartagena: (5) 6937777","Pereira: (6) 3401001","Bucaramanga (7) 6973444","Bogotá: (1) 7433999","Línea nacional 019005558989"],"mainEntityOfPage":["https://www.vivaair.com/co/es","https://www.vivaair.com"],"name":["Viva Air","Viva Air"],"foundingDate":"16 de septiembre de 2009"}</script><link rel="stylesheet" type="text/css" href="/static/css/45.64643caa9b1b8d22ea3d.css"><script charset="utf-8" src="/static/js/45.9fe882f1fdc1a4b35a2e.js"></script><link rel="stylesheet" type="text/css" href="/static/css/31.17164fef73937fd9d0b9.css"><script charset="utf-8" src="/static/js/31.b5743f590f1a2212135f.js"></script></head><body><div id="app" class="app"><div></div> <div></div> <!----> <div data-v-6b9ad6c4="" class="app-layout"><div data-v-6b9ad6c4=""><header data-v-e1636210="" id="header" class="main-header" style="background: rgb(255, 218, 0);"><div data-v-e1636210="" class="header-inner" style="max-width: 1024px;"><!----> <a data-v-37d90cdc="" data-v-e1636210="" href="/co/es" class="home-link logo router-link-active"><img data-v-37d90cdc="" title="Viva Air | Vuelos Baratos a Destinos Nacionales &amp; Internacionales" src="/static/img/logo.svg" alt="VivaAir logo"></a> <nav data-v-e920274e="" data-v-e1636210="" class="navigation"><div data-v-e920274e="" class="v-popover category"><span aria-describedby="popover_9dcysiy2lu" tabindex="-1" class="trigger" style="display: inline-block;"><div data-v-e920274e="" class="heading-wrapper"><div data-v-e920274e="" class="heading first heading__large">Mi Reserva</div></div> </span> </div><div data-v-e920274e="" class="v-popover category"><span aria-describedby="popover_9t00gq37v8" tabindex="-1" class="trigger" style="display: inline-block;"><div data-v-e920274e="" class="heading-wrapper"><div data-v-e920274e="" class="heading heading__large">Promociones</div></div> </span> </div><div data-v-e920274e="" class="v-popover category"><span aria-describedby="popover_zqxyctgd09" tabindex="-1" class="trigger" style="display: inline-block;"><div data-v-e920274e="" class="heading-wrapper"><div data-v-e920274e="" class="heading heading__large">Destinos</div></div> </span> </div><div data-v-e920274e="" class="v-popover category"><span aria-describedby="popover_01l5o15rux" tabindex="-1" class="trigger" style="display: inline-block;"><div data-v-e920274e="" class="heading-wrapper"><div data-v-e920274e="" class="heading heading__large">Info y Ayuda</div></div> </span> </div> <!----> <!----></nav> <div data-v-e1636210="" class="grouped-items"><!----> <div data-v-6a5e14d6="" data-v-e1636210="" class="language-selector language-selector"><button data-v-6a5e14d6="" tabindex="0" class="trigger"><img data-v-6a5e14d6="" alt="Colombia" src="/static/img/flags/1x1/co.svg" class="flag"> <span data-v-6a5e14d6="" class="selected-language">ESP</span></button> <div data-v-6a5e14d6="" class="language-panel" style="display: none;"><div data-v-6a5e14d6="" class="country-list-container"><div data-v-6a5e14d6="" class="heading">Cambiar país</div> <ul data-v-6a5e14d6="" class="country-list"><li data-v-6a5e14d6="" tabindex="0" class="list-item active"><img data-v-6a5e14d6="" alt="Colombia" src="/static/img/flags/1x1/co.svg" class="flag"> <span data-v-6a5e14d6="">Colombia</span></li><li data-v-6a5e14d6="" tabindex="0" class="list-item"><img data-v-6a5e14d6="" alt="Perú" src="/static/img/flags/1x1/pe.svg" class="flag"> <span data-v-6a5e14d6="">Perú</span></li></ul></div> <div data-v-6a5e14d6="" class="language-list-container"><div data-v-6a5e14d6="" class="heading">Cambiar idioma</div> <ul data-v-6a5e14d6="" class="language-list"><li data-v-6a5e14d6="" tabindex="0" class="list-item active"><span data-v-6a5e14d6="">Español</span></li><li data-v-6a5e14d6="" tabindex="0" class="list-item"><span data-v-6a5e14d6="">English</span></li></ul></div></div></div></div></div> <!----> <!----> <div data-v-e1636210="" class="overlay"></div></header></div> <div data-v-4aa21f4a="" data-v-6b9ad6c4="" class="booking-top-container sticky-booking-header"><div data-v-4aa21f4a="" class="booking-top-inner"><div data-v-4aa21f4a="" class="booking-top-options"><div data-v-9d0c7512="" data-v-4aa21f4a="" class="change-search"><button data-v-9d0c7512="" class="icon-back-container"><i data-v-9d0c7512="" class="icon material-icons icon-back" style="color: rgb(255, 255, 255);"></i></button> <button data-v-9d0c7512="" class="current-search-container"><div data-v-9d0c7512="" class="current-search"><div data-v-9d0c7512="" class="current-search-route">
+        Medellín
+        <i data-v-9d0c7512="" class="icon material-icons icon-plane" style="color: rgb(255, 218, 0);"></i>
+        Bogotá
+      </div> <div data-v-9d0c7512="" class="current-search-details"><div data-v-9d0c7512="">Solo ida</div> <div data-v-9d0c7512="">• 2 Adulto(s)</div> <!----> <!----></div> <div data-v-9d0c7512="" class="modify-search-mobile mobile-only">Modificar búsqueda</div></div> <div data-v-9d0c7512="" class="icon-modifiy-search-container desktop-only">
+      Modificar búsqueda
+      <i data-v-9d0c7512="" class="icon material-icons icon-pen" style="color: rgb(255, 218, 0);"></i></div></button></div> <div data-v-5b1cffb0="" data-v-4aa21f4a="" id="basket-icon" tabindex="0" class="basket-icon"><div data-v-5b1cffb0="" class="content"><div data-v-5b1cffb0="" class="title">Costo total</div> <div data-v-5b1cffb0="" class="total-amount"><i data-v-5b1cffb0="" class="icon material-icons icon" style="color: rgb(255, 218, 0);"></i> <span data-v-5b1cffb0="" class="price"><span data-v-5b1cffb0="" class="total">Total:</span>
+        USD 0.00
+      </span></div></div> <div data-v-5b1cffb0="" class="arrow"><i data-v-5b1cffb0="" class="icon material-icons icon-arrow-down" style="color: rgb(255, 255, 255);"></i></div></div></div> <div data-v-4aa21f4a="" class="change-search-criteria-container"><div data-v-292a37f2="" data-v-4aa21f4a="" id="criteria" class="criteria change-search-criteria" style="display: none;"><!----> <div data-v-292a37f2="" class="criteria-container"><div data-v-292a37f2="" class="search-type-switch"><label data-v-66387bc3="" data-v-292a37f2="" tabindex="0"><input data-v-66387bc3="" type="checkbox" id="sqQ7GWBR" name="r3npDr6b" aria-checked="true" class="pristine untouched" aria-required="false" aria-invalid="false"> <span data-v-66387bc3="" class="box"></span> <span data-v-66387bc3="" class="text shine">Solo ida</span></label></div> <div data-v-292a37f2="" class="criteria-container-inner"><div data-v-292a37f2="" class="criteria-row airport-selector-container"><div data-v-292a37f2="" class="airport-selectors"><div data-v-1deae4b6="" data-v-292a37f2="" id="criteria-airport-select-departure" class="form-group airport-select no-margin with-icon-left with-icon-right"><div data-v-1deae4b6="" class="click-area"><div data-v-1deae4b6="" class="icon svg-icon icon-left" style="width: 40px;"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 70 70" style="enable-background:new 0 0 70 70;" xml:space="preserve"><style type="text/css"> .st0{fill:#000656;} </style><path class="st0" d="M65.8,34.9c-0.3-1-0.9-1.7-1.9-2.4c-1.8-1.1-3.6-1.6-5.6-1.7c-1.8-0.1-3.8-0.1-6.2-0.1l-3.4,0.1 c-0.8,0.1-1.4,0.1-2.2,0.1c-0.7,0-1.2-0.1-1.6-0.6c-0.2-0.3-0.4-0.6-0.7-1l-1.3-2.3c1.1-0.1,2.1-1,2.1-2.2v-2.6c0-1.2-1-2.2-2.2-2.2 h-3.9l-5.3-9.3c-0.4-0.6-0.7-1.2-1.2-1.8c-0.9-1.3-2-1.6-2.8-1.6c-1.5-0.1-2.9,0.1-4.1,0.6c-1.3,0.4-2,1.6-1.8,3 c0.1,0.6,0.2,1.1,0.3,1.5c1.2,4.3,2.5,8.6,3.6,12.9c0.5,1.6,0.9,3.1,0.9,4.6c0,0.4,0,0.7-0.1,1.1l-9.6,0.7c-1.1,0.1-2,0.1-3.1,0.2 c-0.1-0.1-0.1-0.2-0.2-0.3L15,30.4c-0.5-0.9-0.8-1.9-1.3-2.9c-0.6-1.2-1.6-1.9-2.9-1.9c-0.7,0-1.4,0.1-2.2,0.1 c-1.4,0.1-2.2,1-2.2,2.3c0,0.4,0,0.7,0,1l-0.1,3.3c-0.2,3.9-0.3,7.9-0.3,11.8c0,0.5,0,1,0.2,1.4C6.5,46,6.8,47,7.8,47.4 c1.3,0.5,2.6,0.4,3.7-0.3c1-0.6,1.9-1.4,2.3-2.7l0.5-0.9l1.2-2.4c3.7,0.1,7.3,0.3,10.9,0.4l1.8,0.1L28,42.3c-0.2,1.4-0.4,2.7-0.9,4 l-4.3,12.9c-0.2,0.8-0.5,1.5-0.7,2.2c-0.3,1.3-0.1,2.3,0.7,3c0.3,0.3,0.7,0.5,1.2,0.6c0.3,0.1,0.6,0.2,0.9,0.2 c1.9,0.4,3.5,0.2,4.8-0.8c1.1-0.8,1.7-1.8,2.2-2.5l6.2-10h4.6c1.2,0,2.2-1,2.2-2.2V47c0-1.2-1-2.2-2.2-2.2h-0.2c0.6-1,1.3-2,1.9-3 c0.4-0.6,0.8-0.8,1.5-0.8l3,0c2.4,0,4.6,0,7,0c2,0,3.5-0.3,5-0.8c1.1-0.3,2.4-0.8,3.4-1.6C65.6,37.8,66.2,36.3,65.8,34.9z"></path><g><text transform="matrix(1 0 0 1 -200.4395 44.8559)" class="st0" style="font-family:'CenturyGothic-Bold'; font-size:19.1528px;">Avión</text></g></svg></div> <i data-v-1deae4b6="" class="icon material-icons icon-right" style="color: rgb(60, 66, 146); display: none;"></i> <div data-v-1deae4b6="" class="close-icon-wrapper"><i data-v-1deae4b6="" class="icon material-icons icon-close" style="color: rgb(60, 66, 146);"></i></div> <label data-v-1deae4b6="" for="criteria-airport-select-departure-input" class="input-label">Ida</label> <input data-v-1deae4b6="" type="text" placeholder="Selecciona el Origen" id="criteria-airport-select-departure-input" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" class="selected-text-input user-select-none"> <span data-v-1deae4b6="" class="validation-message" style="display: none;"></span> <div data-v-1deae4b6="" class="airport-panel clearfix closed"><div data-v-1deae4b6="" class="dropdown-list airport-options"><div data-v-1deae4b6="" class="modal-header"><div data-v-1deae4b6="" class="modal-close mobile-only"><i data-v-1deae4b6="" class="icon material-icons" style="color: rgb(60, 66, 146);"></i></div> <div data-v-1deae4b6="" class="modal-title">Selecciona el Origen</div></div> <div data-v-1deae4b6="" class="modal-content"><!----> <ul data-v-1deae4b6=""><li data-v-1deae4b6="" id="criteria-airport-select-departure-station-AQP" class="">
+              Arequipa
+              <div data-v-1deae4b6="" class="code">(AQP)</div> <div data-v-1deae4b6="" class="airport-name">Aeropuerto Internacional Rodríguez Ballón</div></li><li data-v-1deae4b6="" id="criteria-airport-select-departure-station-BAQ" class="">
+              Barranquilla
+              <div data-v-1deae4b6="" class="code">(BAQ)</div> <div data-v-1deae4b6="" class="airport-name">Aeropuerto Internacional Ernesto Cortissoz</div></li><li data-v-1deae4b6="" id="criteria-airport-select-departure-station-BOG" class="">
+              Bogotá
+              <div data-v-1deae4b6="" class="code">(BOG)</div> <div data-v-1deae4b6="" class="airport-name">Aeropuerto Internacional El Dorado</div></li><li data-v-1deae4b6="" id="criteria-airport-select-departure-station-BGA" class="">
+              Bucaramanga
+              <div data-v-1deae4b6="" class="code">(BGA)</div> <div data-v-1deae4b6="" class="airport-name">Aeropuerto Internacional Palonegro</div></li><li data-v-1deae4b6="" id="criteria-airport-select-departure-station-CJA" class="">
+              Cajamarca
+              <div data-v-1deae4b6="" class="code">(CJA)</div> <div data-v-1deae4b6="" class="airport-name">Aeropuerto Mayor General FAP Armando Revoredo Iglesias</div></li><li data-v-1deae4b6="" id="criteria-airport-select-departure-station-CTG" class="">
+              Cartagena
+              <div data-v-1deae4b6="" class="code">(CTG)</div> <div data-v-1deae4b6="" class="airport-name">Aeropuerto Internacional Rafael Núñez</div></li><li data-v-1deae4b6="" id="criteria-airport-select-departure-station-CIX" class="">
+              Chiclayo
+              <div data-v-1deae4b6="" class="code">(CIX)</div> <div data-v-1deae4b6="" class="airport-name">Aeropuerto Internacional Capitán FAP José A. Quiñones</div></li><li data-v-1deae4b6="" id="criteria-airport-select-departure-station-CUZ" class="">
+              Cusco
+              <div data-v-1deae4b6="" class="code">(CUZ)</div> <div data-v-1deae4b6="" class="airport-name">Aeropuerto Internacional Alejandro Velasco Astete</div></li><li data-v-1deae4b6="" id="criteria-airport-select-departure-station-CUC" class="">
+              Cúcuta
+              <div data-v-1deae4b6="" class="code">(CUC)</div> <div data-v-1deae4b6="" class="airport-name">Aeropuerto Camilo Daza</div></li><li data-v-1deae4b6="" id="criteria-airport-select-departure-station-IQT" class="">
+              Iquitos
+              <div data-v-1deae4b6="" class="code">(IQT)</div> <div data-v-1deae4b6="" class="airport-name">Aeropuerto Internacional Coronel FAP Francisco Secada Vignetta</div></li><li data-v-1deae4b6="" id="criteria-airport-select-departure-station-JAE" class="">
+              Jaén
+              <div data-v-1deae4b6="" class="code">(JAE)</div> <div data-v-1deae4b6="" class="airport-name">Aeropuerto de Jaén</div></li><li data-v-1deae4b6="" id="criteria-airport-select-departure-station-JUL" class="">
+              Juliaca
+              <div data-v-1deae4b6="" class="code">(JUL)</div> <div data-v-1deae4b6="" class="airport-name">Aeropuerto Internacional Inca Manco Cápac</div></li><li data-v-1deae4b6="" id="criteria-airport-select-departure-station-LIM" class="">
+              Lima
+              <div data-v-1deae4b6="" class="code">(LIM)</div> <div data-v-1deae4b6="" class="airport-name">Aeropuerto Internacional Jorge Chávez</div></li><li data-v-1deae4b6="" id="criteria-airport-select-departure-station-MDE" class="selected">
+              Medellín
+              <div data-v-1deae4b6="" class="code">(MDE)</div> <div data-v-1deae4b6="" class="airport-name">Aeropuerto Internacional José María Córdova</div></li><li data-v-1deae4b6="" id="criteria-airport-select-departure-station-MIA" class="">
+              Miami
+              <div data-v-1deae4b6="" class="code">(MIA)</div> <div data-v-1deae4b6="" class="airport-name">Aeropuerto Internacional de Miami</div></li><li data-v-1deae4b6="" id="criteria-airport-select-departure-station-MTR" class="">
+              Montería
+              <div data-v-1deae4b6="" class="code">(MTR)</div> <div data-v-1deae4b6="" class="airport-name">Aeropuerto los Garzones</div></li><li data-v-1deae4b6="" id="criteria-airport-select-departure-station-PEI" class="">
+              Pereira
+              <div data-v-1deae4b6="" class="code">(PEI)</div> <div data-v-1deae4b6="" class="airport-name">Aeropuerto Internacional Matecaña</div></li><li data-v-1deae4b6="" id="criteria-airport-select-departure-station-PIU" class="">
+              Piura
+              <div data-v-1deae4b6="" class="code">(PIU)</div> <div data-v-1deae4b6="" class="airport-name">Aeropuerto Internacional Capitán FAP Guillermo Concha Iberico</div></li><li data-v-1deae4b6="" id="criteria-airport-select-departure-station-RCH" class="">
+              Riohacha
+              <div data-v-1deae4b6="" class="code">(RCH)</div> <div data-v-1deae4b6="" class="airport-name">Aeropuerto Almirante Padilla</div></li><li data-v-1deae4b6="" id="criteria-airport-select-departure-station-ADZ" class="">
+              San Andrés Islas
+              <div data-v-1deae4b6="" class="code">(ADZ)</div> <div data-v-1deae4b6="" class="airport-name">Aeropuerto Internacional Gustavo Rojas Pinilla</div></li><li data-v-1deae4b6="" id="criteria-airport-select-departure-station-SMR" class="">
+              Santa Marta
+              <div data-v-1deae4b6="" class="code">(SMR)</div> <div data-v-1deae4b6="" class="airport-name">Aeropuerto Internacional Simón Bolívar</div></li><li data-v-1deae4b6="" id="criteria-airport-select-departure-station-TCQ" class="">
+              Tacna
+              <div data-v-1deae4b6="" class="code">(TCQ)</div> <div data-v-1deae4b6="" class="airport-name">Aeropuerto Internacional Coronel FAP Carlos Ciriani Santa Rosa</div></li><li data-v-1deae4b6="" id="criteria-airport-select-departure-station-TYL" class="">
+              Talara
+              <div data-v-1deae4b6="" class="code">(TYL)</div> <div data-v-1deae4b6="" class="airport-name">Aeropuerto Internacional Capitán FAP Víctor Montes Arias</div></li><li data-v-1deae4b6="" id="criteria-airport-select-departure-station-TPP" class="">
+              Tarapoto
+              <div data-v-1deae4b6="" class="code">(TPP)</div> <div data-v-1deae4b6="" class="airport-name">Aeropuerto Cadete FAP Guillermo del Castillo Paredes</div></li><li data-v-1deae4b6="" id="criteria-airport-select-departure-station-VUP" class="">
+              Valledupar
+              <div data-v-1deae4b6="" class="code">(VUP)</div> <div data-v-1deae4b6="" class="airport-name"></div></li> <!----><!----><!----><!----><!----><!----><!----></ul></div></div></div></div></div> <div data-v-1deae4b6="" data-v-292a37f2="" id="criteria-airport-select-destination" class="form-group airport-select no-margin with-icon-left with-icon-right"><div data-v-1deae4b6="" class="click-area"><div data-v-1deae4b6="" class="icon svg-icon icon-left" style="width: 40px;"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 70 70" style="enable-background:new 0 0 70 70;" xml:space="preserve"><style type="text/css"> .st0{fill:#000656;} </style><path class="st0" d="M65.8,34.9c-0.3-1-0.9-1.7-1.9-2.4c-1.8-1.1-3.6-1.6-5.6-1.7c-1.8-0.1-3.8-0.1-6.2-0.1l-3.4,0.1 c-0.8,0.1-1.4,0.1-2.2,0.1c-0.7,0-1.2-0.1-1.6-0.6c-0.2-0.3-0.4-0.6-0.7-1l-1.3-2.3c1.1-0.1,2.1-1,2.1-2.2v-2.6c0-1.2-1-2.2-2.2-2.2 h-3.9l-5.3-9.3c-0.4-0.6-0.7-1.2-1.2-1.8c-0.9-1.3-2-1.6-2.8-1.6c-1.5-0.1-2.9,0.1-4.1,0.6c-1.3,0.4-2,1.6-1.8,3 c0.1,0.6,0.2,1.1,0.3,1.5c1.2,4.3,2.5,8.6,3.6,12.9c0.5,1.6,0.9,3.1,0.9,4.6c0,0.4,0,0.7-0.1,1.1l-9.6,0.7c-1.1,0.1-2,0.1-3.1,0.2 c-0.1-0.1-0.1-0.2-0.2-0.3L15,30.4c-0.5-0.9-0.8-1.9-1.3-2.9c-0.6-1.2-1.6-1.9-2.9-1.9c-0.7,0-1.4,0.1-2.2,0.1 c-1.4,0.1-2.2,1-2.2,2.3c0,0.4,0,0.7,0,1l-0.1,3.3c-0.2,3.9-0.3,7.9-0.3,11.8c0,0.5,0,1,0.2,1.4C6.5,46,6.8,47,7.8,47.4 c1.3,0.5,2.6,0.4,3.7-0.3c1-0.6,1.9-1.4,2.3-2.7l0.5-0.9l1.2-2.4c3.7,0.1,7.3,0.3,10.9,0.4l1.8,0.1L28,42.3c-0.2,1.4-0.4,2.7-0.9,4 l-4.3,12.9c-0.2,0.8-0.5,1.5-0.7,2.2c-0.3,1.3-0.1,2.3,0.7,3c0.3,0.3,0.7,0.5,1.2,0.6c0.3,0.1,0.6,0.2,0.9,0.2 c1.9,0.4,3.5,0.2,4.8-0.8c1.1-0.8,1.7-1.8,2.2-2.5l6.2-10h4.6c1.2,0,2.2-1,2.2-2.2V47c0-1.2-1-2.2-2.2-2.2h-0.2c0.6-1,1.3-2,1.9-3 c0.4-0.6,0.8-0.8,1.5-0.8l3,0c2.4,0,4.6,0,7,0c2,0,3.5-0.3,5-0.8c1.1-0.3,2.4-0.8,3.4-1.6C65.6,37.8,66.2,36.3,65.8,34.9z"></path><g><text transform="matrix(1 0 0 1 -200.4395 44.8559)" class="st0" style="font-family:'CenturyGothic-Bold'; font-size:19.1528px;">Avión</text></g></svg></div> <i data-v-1deae4b6="" class="icon material-icons icon-right" style="color: rgb(60, 66, 146); display: none;"></i> <div data-v-1deae4b6="" class="close-icon-wrapper"><i data-v-1deae4b6="" class="icon material-icons icon-close" style="color: rgb(60, 66, 146);"></i></div> <label data-v-1deae4b6="" for="criteria-airport-select-destination-input" class="input-label">Destino</label> <input data-v-1deae4b6="" type="text" placeholder="Selecciona el Destino" id="criteria-airport-select-destination-input" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" class="selected-text-input user-select-none"> <span data-v-1deae4b6="" class="validation-message" style="display: none;"></span> <div data-v-1deae4b6="" class="airport-panel clearfix closed"><div data-v-1deae4b6="" class="dropdown-list airport-options"><div data-v-1deae4b6="" class="modal-header"><div data-v-1deae4b6="" class="modal-close mobile-only"><i data-v-1deae4b6="" class="icon material-icons" style="color: rgb(60, 66, 146);"></i></div> <div data-v-1deae4b6="" class="modal-title">Selecciona el Destino</div></div> <div data-v-1deae4b6="" class="modal-content"><!----> <ul data-v-1deae4b6=""><li data-v-1deae4b6="" id="criteria-airport-select-destination-station-AQP" class="">
+              Arequipa
+              <div data-v-1deae4b6="" class="code">(AQP)</div> <div data-v-1deae4b6="" class="airport-name">Aeropuerto Internacional Rodríguez Ballón</div></li><li data-v-1deae4b6="" id="criteria-airport-select-destination-station-BAQ" class="">
+              Barranquilla
+              <div data-v-1deae4b6="" class="code">(BAQ)</div> <div data-v-1deae4b6="" class="airport-name">Aeropuerto Internacional Ernesto Cortissoz</div></li><li data-v-1deae4b6="" id="criteria-airport-select-destination-station-BOG" class="selected">
+              Bogotá
+              <div data-v-1deae4b6="" class="code">(BOG)</div> <div data-v-1deae4b6="" class="airport-name">Aeropuerto Internacional El Dorado</div></li><li data-v-1deae4b6="" id="criteria-airport-select-destination-station-BGA" class="">
+              Bucaramanga
+              <div data-v-1deae4b6="" class="code">(BGA)</div> <div data-v-1deae4b6="" class="airport-name">Aeropuerto Internacional Palonegro</div></li><li data-v-1deae4b6="" id="criteria-airport-select-destination-station-CJA" class="">
+              Cajamarca
+              <div data-v-1deae4b6="" class="code">(CJA)</div> <div data-v-1deae4b6="" class="airport-name">Aeropuerto Mayor General FAP Armando Revoredo Iglesias</div></li><li data-v-1deae4b6="" id="criteria-airport-select-destination-station-CTG" class="">
+              Cartagena
+              <div data-v-1deae4b6="" class="code">(CTG)</div> <div data-v-1deae4b6="" class="airport-name">Aeropuerto Internacional Rafael Núñez</div></li><li data-v-1deae4b6="" id="criteria-airport-select-destination-station-CIX" class="">
+              Chiclayo
+              <div data-v-1deae4b6="" class="code">(CIX)</div> <div data-v-1deae4b6="" class="airport-name">Aeropuerto Internacional Capitán FAP José A. Quiñones</div></li><li data-v-1deae4b6="" id="criteria-airport-select-destination-station-CUZ" class="">
+              Cusco
+              <div data-v-1deae4b6="" class="code">(CUZ)</div> <div data-v-1deae4b6="" class="airport-name">Aeropuerto Internacional Alejandro Velasco Astete</div></li><li data-v-1deae4b6="" id="criteria-airport-select-destination-station-CUC" class="">
+              Cúcuta
+              <div data-v-1deae4b6="" class="code">(CUC)</div> <div data-v-1deae4b6="" class="airport-name">Aeropuerto Camilo Daza</div></li><li data-v-1deae4b6="" id="criteria-airport-select-destination-station-IQT" class="">
+              Iquitos
+              <div data-v-1deae4b6="" class="code">(IQT)</div> <div data-v-1deae4b6="" class="airport-name">Aeropuerto Internacional Coronel FAP Francisco Secada Vignetta</div></li><li data-v-1deae4b6="" id="criteria-airport-select-destination-station-JAE" class="">
+              Jaén
+              <div data-v-1deae4b6="" class="code">(JAE)</div> <div data-v-1deae4b6="" class="airport-name">Aeropuerto de Jaén</div></li><li data-v-1deae4b6="" id="criteria-airport-select-destination-station-JUL" class="">
+              Juliaca
+              <div data-v-1deae4b6="" class="code">(JUL)</div> <div data-v-1deae4b6="" class="airport-name">Aeropuerto Internacional Inca Manco Cápac</div></li><li data-v-1deae4b6="" id="criteria-airport-select-destination-station-LIM" class="">
+              Lima
+              <div data-v-1deae4b6="" class="code">(LIM)</div> <div data-v-1deae4b6="" class="airport-name">Aeropuerto Internacional Jorge Chávez</div></li><li data-v-1deae4b6="" id="criteria-airport-select-destination-station-MIA" class="">
+              Miami
+              <div data-v-1deae4b6="" class="code">(MIA)</div> <div data-v-1deae4b6="" class="airport-name">Aeropuerto Internacional de Miami</div></li><li data-v-1deae4b6="" id="criteria-airport-select-destination-station-MTR" class="">
+              Montería
+              <div data-v-1deae4b6="" class="code">(MTR)</div> <div data-v-1deae4b6="" class="airport-name">Aeropuerto los Garzones</div></li><li data-v-1deae4b6="" id="criteria-airport-select-destination-station-PEI" class="">
+              Pereira
+              <div data-v-1deae4b6="" class="code">(PEI)</div> <div data-v-1deae4b6="" class="airport-name">Aeropuerto Internacional Matecaña</div></li><li data-v-1deae4b6="" id="criteria-airport-select-destination-station-PIU" class="">
+              Piura
+              <div data-v-1deae4b6="" class="code">(PIU)</div> <div data-v-1deae4b6="" class="airport-name">Aeropuerto Internacional Capitán FAP Guillermo Concha Iberico</div></li><li data-v-1deae4b6="" id="criteria-airport-select-destination-station-RCH" class="">
+              Riohacha
+              <div data-v-1deae4b6="" class="code">(RCH)</div> <div data-v-1deae4b6="" class="airport-name">Aeropuerto Almirante Padilla</div></li><li data-v-1deae4b6="" id="criteria-airport-select-destination-station-ADZ" class="">
+              San Andrés Islas
+              <div data-v-1deae4b6="" class="code">(ADZ)</div> <div data-v-1deae4b6="" class="airport-name">Aeropuerto Internacional Gustavo Rojas Pinilla</div></li><li data-v-1deae4b6="" id="criteria-airport-select-destination-station-SMR" class="">
+              Santa Marta
+              <div data-v-1deae4b6="" class="code">(SMR)</div> <div data-v-1deae4b6="" class="airport-name">Aeropuerto Internacional Simón Bolívar</div></li><li data-v-1deae4b6="" id="criteria-airport-select-destination-station-TCQ" class="">
+              Tacna
+              <div data-v-1deae4b6="" class="code">(TCQ)</div> <div data-v-1deae4b6="" class="airport-name">Aeropuerto Internacional Coronel FAP Carlos Ciriani Santa Rosa</div></li><li data-v-1deae4b6="" id="criteria-airport-select-destination-station-TYL" class="">
+              Talara
+              <div data-v-1deae4b6="" class="code">(TYL)</div> <div data-v-1deae4b6="" class="airport-name">Aeropuerto Internacional Capitán FAP Víctor Montes Arias</div></li><li data-v-1deae4b6="" id="criteria-airport-select-destination-station-TPP" class="">
+              Tarapoto
+              <div data-v-1deae4b6="" class="code">(TPP)</div> <div data-v-1deae4b6="" class="airport-name">Aeropuerto Cadete FAP Guillermo del Castillo Paredes</div></li><li data-v-1deae4b6="" id="criteria-airport-select-destination-station-VUP" class="">
+              Valledupar
+              <div data-v-1deae4b6="" class="code">(VUP)</div> <div data-v-1deae4b6="" class="airport-name"></div></li> <!----><!----><!----><!----><!----><!----><!----></ul></div></div></div></div></div></div></div> <div data-v-292a37f2="" class="criteria-row date-selector-container"><div data-v-292a37f2="" class="date-selectors"><div data-v-292a37f2="" class="datepicker-inputs datepicker-trigger"><div data-v-292a37f2=""><div data-v-2560394c="" data-v-292a37f2="" class="form-group input with-icon-left clicked" style="margin: 0px;"><div data-v-2560394c="" class="click-area"><div data-v-292a37f2="" class="icon svg-icon icon-left" data-v-2560394c="" style="width: 40px;"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 101 83.6" style="enable-background:new 0 0 101 83.6;" xml:space="preserve"><style type="text/css"> .st0{fill:#000656;} </style><g><path class="st0" d="M39,43.2c0-1-0.8-1.8-1.8-1.8H31c-1,0-1.8,0.8-1.8,1.8v6.2c0,1,0.8,1.8,1.8,1.8h6.2c1,0,1.8-0.8,1.8-1.8V43.2z M39,43.2"></path><path class="st0" d="M54.6,43.2c0-1-0.8-1.8-1.8-1.8h-6.2c-1,0-1.8,0.8-1.8,1.8v6.2c0,1,0.8,1.8,1.8,1.8h6.2c1,0,1.8-0.8,1.8-1.8 V43.2z M54.6,43.2"></path><path class="st0" d="M70.2,43.2c0-1-0.8-1.8-1.8-1.8h-6.2c-1,0-1.8,0.8-1.8,1.8v6.2c0,1,0.8,1.8,1.8,1.8h6.2c1,0,1.8-0.8,1.8-1.8 V43.2z"></path><path class="st0" d="M39,58.9c0-1-0.8-1.8-1.8-1.8H31c-1,0-1.8,0.8-1.8,1.8v6.2c0,1,0.8,1.8,1.8,1.8h6.2c1,0,1.8-0.8,1.8-1.8V58.9z M39,58.9"></path><path class="st0" d="M54.6,58.9c0-1-0.8-1.8-1.8-1.8h-6.2c-1,0-1.8,0.8-1.8,1.8v6.2c0,1,0.8,1.8,1.8,1.8h6.2c1,0,1.8-0.8,1.8-1.8 V58.9z M54.6,58.9"></path><path class="st0" d="M70.2,58.9c0-1-0.8-1.8-1.8-1.8h-6.2c-1,0-1.8,0.8-1.8,1.8v6.2c0,1,0.8,1.8,1.8,1.8h6.2c1,0,1.8-0.8,1.8-1.8 V58.9z M70.2,58.9"></path><path class="st0" d="M79.2,20.5H74v-6.1c0-1.5-1.2-2.7-2.7-2.7h-4.9c-1.5,0-2.7,1.2-2.7,2.7v6.1H36.1v-6.1c0-1.5-1.2-2.7-2.7-2.7 h-4.9c-1.5,0-2.7,1.2-2.7,2.7v6.1h-5.1c-3.8,0.1-6.9,3.2-6.9,7.1v44c0,3.9,3.2,7.1,7.1,7.1H79c3.9,0,7.1-3.2,7.1-7.1v-44 C86.1,23.7,83,20.6,79.2,20.5z M76.9,68c0,1.7-1.4,3.1-3.1,3.1H26c-1.7,0-3.1-1.4-3.1-3.1V39.1c0-1.7,1.4-3.1,3.1-3.1h47.9 c1.7,0,3.1,1.4,3.1,3.1V68z"></path></g><g><text transform="matrix(1 0 0 1 -211.9142 53.8654)" class="st0" style="font-family:'CenturyGothic-Bold'; font-size:19.1528px;">Calendario</text></g></svg></div> <label data-v-2560394c="" for="criteria-dates-from" class="input-label">Fecha ida</label> <input data-v-2560394c="" type="text" placeholder="Seleccionar fecha" id="criteria-dates-from" name="criteria-dates-from" readonly="readonly" class="selected-text-input pristine untouched" aria-required="false" aria-invalid="false"> <!----> <!----> <!----> <!----> <!----> <!----></div></div></div> <div data-v-292a37f2="" style="display: none;"><div data-v-2560394c="" data-v-292a37f2="" class="form-group input with-icon-left inbound clicked" style="margin: 0px;"><div data-v-2560394c="" class="click-area"><div data-v-292a37f2="" class="icon svg-icon icon-left" data-v-2560394c="" style="width: 40px;"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 101 83.6" style="enable-background:new 0 0 101 83.6;" xml:space="preserve"><style type="text/css"> .st0{fill:#000656;} </style><g><path class="st0" d="M39,43.2c0-1-0.8-1.8-1.8-1.8H31c-1,0-1.8,0.8-1.8,1.8v6.2c0,1,0.8,1.8,1.8,1.8h6.2c1,0,1.8-0.8,1.8-1.8V43.2z M39,43.2"></path><path class="st0" d="M54.6,43.2c0-1-0.8-1.8-1.8-1.8h-6.2c-1,0-1.8,0.8-1.8,1.8v6.2c0,1,0.8,1.8,1.8,1.8h6.2c1,0,1.8-0.8,1.8-1.8 V43.2z M54.6,43.2"></path><path class="st0" d="M70.2,43.2c0-1-0.8-1.8-1.8-1.8h-6.2c-1,0-1.8,0.8-1.8,1.8v6.2c0,1,0.8,1.8,1.8,1.8h6.2c1,0,1.8-0.8,1.8-1.8 V43.2z"></path><path class="st0" d="M39,58.9c0-1-0.8-1.8-1.8-1.8H31c-1,0-1.8,0.8-1.8,1.8v6.2c0,1,0.8,1.8,1.8,1.8h6.2c1,0,1.8-0.8,1.8-1.8V58.9z M39,58.9"></path><path class="st0" d="M54.6,58.9c0-1-0.8-1.8-1.8-1.8h-6.2c-1,0-1.8,0.8-1.8,1.8v6.2c0,1,0.8,1.8,1.8,1.8h6.2c1,0,1.8-0.8,1.8-1.8 V58.9z M54.6,58.9"></path><path class="st0" d="M70.2,58.9c0-1-0.8-1.8-1.8-1.8h-6.2c-1,0-1.8,0.8-1.8,1.8v6.2c0,1,0.8,1.8,1.8,1.8h6.2c1,0,1.8-0.8,1.8-1.8 V58.9z M70.2,58.9"></path><path class="st0" d="M79.2,20.5H74v-6.1c0-1.5-1.2-2.7-2.7-2.7h-4.9c-1.5,0-2.7,1.2-2.7,2.7v6.1H36.1v-6.1c0-1.5-1.2-2.7-2.7-2.7 h-4.9c-1.5,0-2.7,1.2-2.7,2.7v6.1h-5.1c-3.8,0.1-6.9,3.2-6.9,7.1v44c0,3.9,3.2,7.1,7.1,7.1H79c3.9,0,7.1-3.2,7.1-7.1v-44 C86.1,23.7,83,20.6,79.2,20.5z M76.9,68c0,1.7-1.4,3.1-3.1,3.1H26c-1.7,0-3.1-1.4-3.1-3.1V39.1c0-1.7,1.4-3.1,3.1-3.1h47.9 c1.7,0,3.1,1.4,3.1,3.1V68z"></path></g><g><text transform="matrix(1 0 0 1 -211.9142 53.8654)" class="st0" style="font-family:'CenturyGothic-Bold'; font-size:19.1528px;">Calendario</text></g></svg></div> <label data-v-2560394c="" for="criteria-dates-to" class="input-label">Fecha regreso</label> <input data-v-2560394c="" type="text" placeholder="Seleccionar fecha" id="criteria-dates-to" name="criteria-dates-to" readonly="readonly" class="selected-text-input pristine untouched" aria-required="false" aria-invalid="false"> <!----> <!----> <!----> <!----> <!----> <!----></div></div></div></div> <!----></div></div> <div data-v-292a37f2="" class="criteria-row pax-currency-container"><div data-v-aac4a932="" data-v-292a37f2="" id="criteria-passenger-select" class="form-group passenger-select no-margin criteria-input-container with-icon-left with-icon-right"><div data-v-aac4a932="" class="click-area"><div data-v-aac4a932="" class="icon svg-icon icon-left" style="width: 40px;"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 97 98.6" style="enable-background:new 0 0 97 98.6;" xml:space="preserve"><style type="text/css"> .st0{fill:#000656;} </style><g><text transform="matrix(1 0 0 1 -179.165 56.2893)" class="st0" style="font-family:'CenturyGothic-Bold'; font-size:19.1528px;">Sujeto</text></g><g><g id="mF1pKD_13_"><g><path class="st0" d="M35.9,55.6c1.9-0.3,2.8-1.2,3-3c0.5-3.6,1.1-7.1,1.6-10.6c0.2-1,0.5-2.1,0.7-3.1c-0.2,3.8-0.5,7.6-0.8,11.4 c-0.1,1.6-0.2,3.3-0.4,4.9c-0.6,4.5-1.2,9.1-1.9,13.6c-0.6,4.4-1.2,8.7-1.8,13.1c-0.1,0.7-0.2,1.4-0.2,2.1 c0.2,1.9,1.8,3.3,3.8,3.4c1.9,0.1,3.6-1.3,3.9-3.2c0.1-0.5,0.1-0.9,0.2-1.4c0.6-4.3,1.2-8.6,1.8-12.9c0.6-4.3,1.2-8.6,1.7-12.9 c0.1-0.5,0.2-1,0.2-1.6c0.1,0.1,0.1,0.1,0.1,0.2c0.5,3.4,1,6.8,1.5,10.2c0.9,6.2,1.9,12.4,2.8,18.6c0.2,1.4,0.9,2.3,2.1,3 c0.3,0.2,0.7,0.3,1.1,0.4c0.4,0,0.8,0,1.2,0c0,0,0.1-0.1,0.1-0.1c2.4-0.5,3.5-2.2,3.2-4.6c-0.5-2.8-0.9-5.6-1.3-8.4 c-0.6-4.1-1.3-8.1-1.8-12.2c-0.5-3.3-1-6.5-1.3-9.8c-0.4-4.6-0.6-9.2-0.9-13.9c0-0.6-0.1-1.2-0.1-1.8c0.1,0.1,0.2,0.2,0.2,0.3 c0.4,1.9,0.9,3.7,1.2,5.6c0.5,3.4,0.8,6.8,1.2,10.2c0.2,1.8,1.7,3,3.4,2.8c1.8-0.2,3-1.6,2.8-3.4c-0.2-2.5-0.5-5-0.7-7.5 c-0.4-3.1-0.9-6.2-1.8-9.3c-0.6-1.9-1.3-3.6-2.6-5.1c-1.9-2.1-4.4-3.3-7.1-3.9c-0.8-0.2-1.5-0.2-2.4-0.3l-1.6-0.1 c-0.8,0.1-1.6,0.2-2.3,0.4c-2.8,0.6-5.3,2-7.1,4.3c-1.2,1.5-1.9,3.3-2.4,5.2c-1.5,5.1-2.3,10.4-2.9,15.7 c-0.1,1.2,0.3,2.1,1.3,2.8C33.9,55.1,34.4,55.6,35.9,55.6z"></path><path class="st0" d="M48.9,11.8c0.6,0.2,1.3,0.3,1.9,0.5c2.8,1,4.7,3.6,4.6,6.5c0,2.7-1.4,4.8-3.8,6.1c-4.2,2.3-9.6,0-10.8-4.6 c-0.7-2.8,0.7-5.9,3.2-7.4c0.9-0.5,1.8-0.9,2.8-1c0.1,0,0.1-0.1,0.2-0.1C47.8,11.8,48.4,11.8,48.9,11.8z"></path></g></g></g></svg></div> <i data-v-aac4a932="" class="icon material-icons icon-right" style="color: rgb(60, 66, 146);"></i> <i data-v-aac4a932="" class="icon material-icons icon-close" style="color: rgb(60, 66, 146); display: none;"></i> <label data-v-aac4a932="" for="criteria-passenger-select-input" class="input-label">Pasajeros</label> <input data-v-aac4a932="" type="text" id="criteria-passenger-select-input" readonly="readonly" class="selected-text-input"> <!----> <ul data-v-aac4a932="" class="dropdown-list" style="display: none;"><li data-v-aac4a932="" class="modal-header mobile-only"><div data-v-aac4a932="" class="modal-close"><i data-v-aac4a932="" class="icon material-icons" style="color: rgb(60, 66, 146);"></i></div> <h3 data-v-aac4a932="">Seleccionar pasajeros</h3></li> <li data-v-aac4a932="" id="passenger-type-undefined"><div data-v-aac4a932=""><span data-v-aac4a932="" class="name">Adult</span> <div data-v-aac4a932="" class="passenger-description">18 and above</div></div> <div data-v-aac4a932="" class="buttons"><span data-v-aac4a932="" class="counter">2</span> <div data-v-bd561d0e="" data-v-aac4a932="" class="add-subtract-buttons"><button data-v-bd561d0e="" tabindex="-1" class="subtract-button">-</button> <!----> <button data-v-bd561d0e="" tabindex="-1" class="add-button">+</button></div></div></li><li data-v-aac4a932="" id="passenger-type-undefined"><div data-v-aac4a932=""><span data-v-aac4a932="" class="name">Child</span> <div data-v-aac4a932="" class="passenger-description">2-17 years</div></div> <div data-v-aac4a932="" class="buttons"><span data-v-aac4a932="" class="counter">0</span> <div data-v-bd561d0e="" data-v-aac4a932="" class="add-subtract-buttons"><button data-v-bd561d0e="" tabindex="-1" class="subtract-button">-</button> <!----> <button data-v-bd561d0e="" tabindex="-1" class="add-button">+</button></div></div></li><li data-v-aac4a932="" id="passenger-type-undefined"><div data-v-aac4a932=""><span data-v-aac4a932="" class="name">Infant</span> <div data-v-aac4a932="" class="passenger-description">&lt;= 2 years</div></div> <div data-v-aac4a932="" class="buttons"><span data-v-aac4a932="" class="counter">0</span> <div data-v-bd561d0e="" data-v-aac4a932="" class="add-subtract-buttons"><button data-v-bd561d0e="" tabindex="-1" class="subtract-button">-</button> <!----> <button data-v-bd561d0e="" tabindex="-1" class="add-button">+</button></div></div></li> <!----> <li data-v-aac4a932="" class="mobile-only mobile-footer clearfix"><div data-v-23d1314b="" data-v-aac4a932="" class="form-group button-container float-right"><button data-v-23d1314b="" type="button" id="Gq1d92Kd" class="button" style="background-color: rgb(202, 0, 0); color: rgb(255, 255, 255);"><i data-v-23d1314b="" class="button-icon material-icons" style="display: none;"></i> <span data-v-23d1314b="" class="">Seleccionar</span>  <i data-v-23d1314b="" class="button-icon button-icon-right material-icons" style="display: none;"></i></button></div></li></ul></div></div> <div data-v-34c8197e="" data-v-292a37f2="" id="criteria-currency-select" class="form-group currency-selector no-margin with-icon-left criteria-input-container"><div data-v-34c8197e="" class="click-area"><div data-v-34c8197e="" class="icon icon-left"><i data-v-34c8197e="" class="currency-flag currency-flag-usd"></i></div> <i data-v-34c8197e="" class="icon material-icons icon-right" style="color: rgb(60, 66, 146);"></i> <label data-v-34c8197e="" for="criteria-currency-select-input" class="input-label">Moneda</label> <input data-v-34c8197e="" type="text" placeholder="Selecciona la Moneda" id="criteria-currency-select-input" readonly="readonly" class="selected-text-input"> <div data-v-34c8197e="" class="currency-panel" style="display: none;"><ul data-v-34c8197e="" class="dropdown-list"><li data-v-34c8197e="" id="currency-COP" class="">
+          
+          <div data-v-34c8197e="" class="code"><i data-v-34c8197e="" slot="iconLeft" class="currency-flag currency-flag-cop"></i>
+            COP
+          </div></li><li data-v-34c8197e="" id="currency-USD" class="selected">
+          
+          <div data-v-34c8197e="" class="code"><i data-v-34c8197e="" slot="iconLeft" class="currency-flag currency-flag-usd"></i>
+            USD
+          </div></li><li data-v-34c8197e="" id="currency-AUD" class="">
+          
+          <div data-v-34c8197e="" class="code"><i data-v-34c8197e="" slot="iconLeft" class="currency-flag currency-flag-aud"></i>
+            AUD
+          </div></li><li data-v-34c8197e="" id="currency-CAD" class="">
+          
+          <div data-v-34c8197e="" class="code"><i data-v-34c8197e="" slot="iconLeft" class="currency-flag currency-flag-cad"></i>
+            CAD
+          </div></li><li data-v-34c8197e="" id="currency-CLP" class="">
+          
+          <div data-v-34c8197e="" class="code"><i data-v-34c8197e="" slot="iconLeft" class="currency-flag currency-flag-clp"></i>
+            CLP
+          </div></li><li data-v-34c8197e="" id="currency-CRC" class="">
+          
+          <div data-v-34c8197e="" class="code"><i data-v-34c8197e="" slot="iconLeft" class="currency-flag currency-flag-crc"></i>
+            CRC
+          </div></li><li data-v-34c8197e="" id="currency-DOP" class="">
+          
+          <div data-v-34c8197e="" class="code"><i data-v-34c8197e="" slot="iconLeft" class="currency-flag currency-flag-dop"></i>
+            DOP
+          </div></li><li data-v-34c8197e="" id="currency-EUR" class="">
+          
+          <div data-v-34c8197e="" class="code"><i data-v-34c8197e="" slot="iconLeft" class="currency-flag currency-flag-eur"></i>
+            EUR
+          </div></li><li data-v-34c8197e="" id="currency-GBP" class="">
+          
+          <div data-v-34c8197e="" class="code"><i data-v-34c8197e="" slot="iconLeft" class="currency-flag currency-flag-gbp"></i>
+            GBP
+          </div></li><li data-v-34c8197e="" id="currency-GTQ" class="">
+          
+          <div data-v-34c8197e="" class="code"><i data-v-34c8197e="" slot="iconLeft" class="currency-flag currency-flag-gtq"></i>
+            GTQ
+          </div></li><li data-v-34c8197e="" id="currency-ILS" class="">
+          
+          <div data-v-34c8197e="" class="code"><i data-v-34c8197e="" slot="iconLeft" class="currency-flag currency-flag-ils"></i>
+            ILS
+          </div></li><li data-v-34c8197e="" id="currency-KRW" class="">
+          
+          <div data-v-34c8197e="" class="code"><i data-v-34c8197e="" slot="iconLeft" class="currency-flag currency-flag-krw"></i>
+            KRW
+          </div></li><li data-v-34c8197e="" id="currency-MXN" class="">
+          
+          <div data-v-34c8197e="" class="code"><i data-v-34c8197e="" slot="iconLeft" class="currency-flag currency-flag-mxn"></i>
+            MXN
+          </div></li><li data-v-34c8197e="" id="currency-NZD" class="">
+          
+          <div data-v-34c8197e="" class="code"><i data-v-34c8197e="" slot="iconLeft" class="currency-flag currency-flag-nzd"></i>
+            NZD
+          </div></li><li data-v-34c8197e="" id="currency-PEN" class="">
+          
+          <div data-v-34c8197e="" class="code"><i data-v-34c8197e="" slot="iconLeft" class="currency-flag currency-flag-pen"></i>
+            PEN
+          </div></li><li data-v-34c8197e="" id="currency-TWD" class="">
+          
+          <div data-v-34c8197e="" class="code"><i data-v-34c8197e="" slot="iconLeft" class="currency-flag currency-flag-twd"></i>
+            TWD
+          </div></li></ul></div></div></div></div> <div data-v-292a37f2="" class="criteria-row search-button-container mobile-only"><div data-v-2560394c="" data-v-292a37f2="" class="form-group input criteria-input-container promo-code" style="margin: 0px;"><div data-v-2560394c="" class="click-area"><!----> <label data-v-2560394c="" for="criteria-promo-code-mobile" class="input-label">Código Promocional</label> <input data-v-2560394c="" type="text" placeholder="Ingresa el código promocional" id="criteria-promo-code-mobile" name="criteria-promo-code" class="selected-text-input pristine untouched" aria-required="false" aria-invalid="false"> <!----> <!----> <!----> <!----> <!----> <!----></div></div> <div data-v-23d1314b="" data-v-292a37f2="" class="form-group button-container criteria-input-container search-button no-margin"><button data-v-23d1314b="" type="button" id="criteria-search-button-mobile" class="button with-icon-right" style="background-color: rgb(202, 0, 0); color: rgb(255, 255, 255); font-weight: bold; min-width: 100%; text-align: center; height: 45px;"><i data-v-23d1314b="" class="button-icon material-icons" style="display: none;"></i> <span data-v-23d1314b="" class="shine">Buscar vuelos</span>  <i data-v-23d1314b="" class="button-icon button-icon-right material-icons"></i></button></div></div></div> <div data-v-292a37f2="" class="desktop-only search-button-desktop-container"><div data-v-292a37f2="" class="criteria-row search-button-container"><div data-v-2560394c="" data-v-292a37f2="" class="form-group input criteria-input-container promo-code" style="margin: 0px;"><div data-v-2560394c="" class="click-area"><!----> <label data-v-2560394c="" for="criteria-promo-code-desktop" class="input-label">Código Promocional</label> <input data-v-2560394c="" type="text" placeholder="Ingresa el código promocional" id="criteria-promo-code-desktop" name="criteria-promo-code" class="selected-text-input pristine untouched" aria-required="false" aria-invalid="false"> <!----> <!----> <!----> <!----> <!----> <!----></div></div> <div data-v-23d1314b="" data-v-292a37f2="" class="form-group button-container criteria-input-container search-button no-margin"><button data-v-23d1314b="" type="button" id="criteria-search-button-desktop" class="button with-icon-right" style="background-color: rgb(202, 0, 0); color: rgb(255, 255, 255); font-weight: bold; min-width: 100%; text-align: center; height: 45px;"><i data-v-23d1314b="" class="button-icon material-icons" style="display: none;"></i> <span data-v-23d1314b="" class="shine">Buscar vuelos</span>  <i data-v-23d1314b="" class="button-icon button-icon-right material-icons"></i></button></div></div></div></div></div></div> <!----> <!----></div></div> <div data-v-6b9ad6c4="" class="container container" style="background: rgb(255, 255, 255); color: rgb(0, 6, 86); max-width: 1024px;"><div data-v-6b9ad6c4="" id="body" class="body select"><div data-v-6b9ad6c4="" class="view"><div class="navigation-hub" style="background: rgb(255, 255, 255);"><div class="navigation-hub-inner" style="background: rgb(255, 255, 255); max-width: 1024px;"><div><header data-v-45d3b2e9="" class="section-header hide-mobile with-icon"><div data-v-44ba1c40="" data-v-45d3b2e9="" class="sprite-icon icon"><i data-v-44ba1c40="" class="airplane-small"></i></div> <div data-v-45d3b2e9="" class="title">Vuelos</div> <!----></header></div> <div data-v-2952ab4e="" class="navigation"><div data-v-2952ab4e="" tabindex="0" class="nav-button"><div data-v-2952ab4e="" class="selected-indicator current-step">1</div> <div data-v-2952ab4e="">Vuelos</div></div><div data-v-2952ab4e="" tabindex="-1" disabled="disabled" class="nav-button"><div data-v-2952ab4e="" class="selected-indicator">2</div> <div data-v-2952ab4e="">Pasajeros</div></div><div data-v-2952ab4e="" tabindex="-1" disabled="disabled" class="nav-button"><div data-v-2952ab4e="" class="selected-indicator">3</div> <div data-v-2952ab4e="">Adicionales</div></div><div data-v-2952ab4e="" tabindex="-1" disabled="disabled" class="nav-button"><div data-v-2952ab4e="" class="selected-indicator">4</div> <div data-v-2952ab4e="">Pago</div></div><!----></div> </div></div> <div><div class="content-container full-width"><div><!----> <div data-v-db5d30f2="" class="week-result-view"><div data-v-db5d30f2="" id="route-0" class="route clearfix"><div data-v-db5d30f2="" class="route-header"><div data-v-1f35c508="" data-v-db5d30f2="" id="route-header-0" class="flight-header"><div data-v-1f35c508="" class="location-summary">
+    Medellín
+    <i data-v-1f35c508="" class="icon material-icons flight-icon" style="color: rgb(255, 218, 0);"></i>
+    Bogotá
+  </div> <!----></div></div> <div data-v-be781088="" data-v-db5d30f2="" class="week-result-container"><div data-v-be781088="" class="week-result"><div data-v-be781088="" class="week-result-inner"><button data-v-be781088="" disabled="disabled" class="change previous disabled"><i data-v-be781088="" class="icon material-icons" style="color: rgb(255, 255, 255);"></i></button> <div data-v-be781088="" id="days-0" class="days"><button data-v-be781088="" disabled="disabled" class="day disabled"><div data-v-be781088="" class="day-date">Sáb 02/11</div> <!----> <div data-v-be781088="" class="price"><div data-v-44ba1c40="" data-v-be781088="" class="sprite-icon"><i data-v-44ba1c40="" class="x-calendar-small"></i></div></div></button><button data-v-be781088="" disabled="disabled" class="day disabled"><div data-v-be781088="" class="day-date">Dom 03/11</div> <!----> <div data-v-be781088="" class="price"><div data-v-44ba1c40="" data-v-be781088="" class="sprite-icon"><i data-v-44ba1c40="" class="x-calendar-small"></i></div></div></button><button data-v-be781088="" class="day"><div data-v-be781088="" class="day-date">Lun 04/11</div> <div data-v-be781088="" class="day-from-label">Desde</div> <div data-v-be781088="" class="price">USD 117.15</div></button><button data-v-be781088="" class="day selected"><div data-v-be781088="" class="day-date">Mar 05/11</div> <div data-v-be781088="" class="day-from-label">Desde</div> <div data-v-be781088="" class="price">USD 41.26</div></button><button data-v-be781088="" class="day"><div data-v-be781088="" class="day-date">Mié 06/11</div> <div data-v-be781088="" class="day-from-label">Desde</div> <div data-v-be781088="" class="price">USD 31.78</div></button><button data-v-be781088="" class="day"><div data-v-be781088="" class="day-date">Jue 07/11</div> <div data-v-be781088="" class="day-from-label">Desde</div> <div data-v-be781088="" class="price">USD 31.78</div></button><button data-v-be781088="" class="day"><div data-v-be781088="" class="day-date">Vie 08/11</div> <div data-v-be781088="" class="day-from-label">Desde</div> <div data-v-be781088="" class="price">USD 36.52</div></button></div> <button data-v-be781088="" class="change next"><i data-v-be781088="" class="icon material-icons" style="color: rgb(255, 255, 255);"></i></button></div></div></div> <!----> <div data-v-db5d30f2="" class="flights-container"><div data-v-db5d30f2="" class="flights"><div data-v-d289089e="" data-v-db5d30f2="" id="Vkh_ODAyMH4gfn5NREV_MTEvMDUvMjAxOSAwNzo0OH5CT0d_MTEvMDUvMjAxOSAwODo0NX4-" class="flight"><div data-v-7da0663e="" data-v-d289089e="" class="" style="width: 100%;"><div data-v-7da0663e="" class="segment-summary"><div data-v-7da0663e="" style="width: 100%;"><div data-v-40cd2034="" data-v-7da0663e="" class="segment-detail"><div data-v-40cd2034="" class="locations"> <div data-v-40cd2034="" class="additional-info"><i data-v-40cd2034="" class="icon material-icons history-icon" style="color: rgb(0, 6, 86);">history</i> <div data-v-40cd2034="" class="duration">
+        57m - Vuelo directo
+        <!----></div></div> <div data-v-40cd2034="" class="location-wrapper"><div data-v-40cd2034="" class="location"><div data-v-40cd2034="" class="airport-code"><span data-v-40cd2034="" class="departure-text">Salida</span>
+          MDE
+        </div> <div data-v-40cd2034="" class="time">07:48</div></div> <div data-v-40cd2034="" class="duration-wrapper"><div data-v-40cd2034="" class="flight-icon-wrapper"><i data-v-40cd2034="" class="icon material-icons flight-icon" style="color: rgb(255, 218, 0);"></i></div></div> <div data-v-40cd2034="" class="location"><div data-v-40cd2034="" class="airport-code"><span data-v-40cd2034="" class="arrival-text">Llegada</span>
+          BOG
+        </div> <div data-v-40cd2034="" class="time">
+          08:45
+          <!----></div></div></div> <div data-v-40cd2034="" class="flight-information">VH8020 Operado por Fast Colombia SAS. Airbus A320</div></div> <!----> <!----></div> </div> <div data-v-7da0663e="" tabindex="0" class="segment-lowest-price"><div data-v-7da0663e="" class="from-label">Desde</div> <div data-v-7da0663e="" class="from-price">USD 117.15</div> <i data-v-7da0663e="" class="icon material-icons arrow-down-icon" style="color: rgb(0, 6, 86);"></i> <span data-v-7da0663e="" class="fare-class-tooltip">S</span></div></div></div> <div data-v-d289089e="" class="flight-details"><div data-v-d289089e="" class="fares"><!----></div></div> <!----> <!----></div><div data-v-d289089e="" data-v-db5d30f2="" id="Vkh_ODE4NH4gfn5NREV_MTEvMDUvMjAxOSAxMjozMH5CT0d_MTEvMDUvMjAxOSAxMzoyN34-" class="flight"><div data-v-7da0663e="" data-v-d289089e="" class="" style="width: 100%;"><div data-v-7da0663e="" class="segment-summary"><div data-v-7da0663e="" style="width: 100%;"><div data-v-40cd2034="" data-v-7da0663e="" class="segment-detail"><div data-v-40cd2034="" class="locations"> <div data-v-40cd2034="" class="additional-info"><i data-v-40cd2034="" class="icon material-icons history-icon" style="color: rgb(0, 6, 86);">history</i> <div data-v-40cd2034="" class="duration">
+        57m - Vuelo directo
+        <!----></div></div> <div data-v-40cd2034="" class="location-wrapper"><div data-v-40cd2034="" class="location"><div data-v-40cd2034="" class="airport-code"><span data-v-40cd2034="" class="departure-text">Salida</span>
+          MDE
+        </div> <div data-v-40cd2034="" class="time">12:30</div></div> <div data-v-40cd2034="" class="duration-wrapper"><div data-v-40cd2034="" class="flight-icon-wrapper"><i data-v-40cd2034="" class="icon material-icons flight-icon" style="color: rgb(255, 218, 0);"></i></div></div> <div data-v-40cd2034="" class="location"><div data-v-40cd2034="" class="airport-code"><span data-v-40cd2034="" class="arrival-text">Llegada</span>
+          BOG
+        </div> <div data-v-40cd2034="" class="time">
+          13:27
+          <!----></div></div></div> <div data-v-40cd2034="" class="flight-information">VH8184 Operado por Fast Colombia SAS. Airbus A320</div></div> <!----> <!----></div> </div> <div data-v-7da0663e="" tabindex="0" class="segment-lowest-price"><div data-v-7da0663e="" class="from-label">Desde</div> <div data-v-7da0663e="" class="from-price">USD 47.59</div> <i data-v-7da0663e="" class="icon material-icons arrow-down-icon" style="color: rgb(0, 6, 86);"></i> <span data-v-7da0663e="" class="fare-class-tooltip">K</span></div></div></div> <div data-v-d289089e="" class="flight-details"><div data-v-d289089e="" class="fares"><!----></div></div> <!----> <!----></div><div data-v-d289089e="" data-v-db5d30f2="" id="Vkh_ODA2NH4gfn5NREV_MTEvMDUvMjAxOSAxNjoxOH5CT0d_MTEvMDUvMjAxOSAxNzoxNX4-" class="flight"><div data-v-7da0663e="" data-v-d289089e="" class="" style="width: 100%;"><div data-v-7da0663e="" class="segment-summary"><div data-v-7da0663e="" style="width: 100%;"><div data-v-40cd2034="" data-v-7da0663e="" class="segment-detail"><div data-v-40cd2034="" class="locations"> <div data-v-40cd2034="" class="additional-info"><i data-v-40cd2034="" class="icon material-icons history-icon" style="color: rgb(0, 6, 86);">history</i> <div data-v-40cd2034="" class="duration">
+        57m - Vuelo directo
+        <!----></div></div> <div data-v-40cd2034="" class="location-wrapper"><div data-v-40cd2034="" class="location"><div data-v-40cd2034="" class="airport-code"><span data-v-40cd2034="" class="departure-text">Salida</span>
+          MDE
+        </div> <div data-v-40cd2034="" class="time">16:18</div></div> <div data-v-40cd2034="" class="duration-wrapper"><div data-v-40cd2034="" class="flight-icon-wrapper"><i data-v-40cd2034="" class="icon material-icons flight-icon" style="color: rgb(255, 218, 0);"></i></div></div> <div data-v-40cd2034="" class="location"><div data-v-40cd2034="" class="airport-code"><span data-v-40cd2034="" class="arrival-text">Llegada</span>
+          BOG
+        </div> <div data-v-40cd2034="" class="time">
+          17:15
+          <!----></div></div></div> <div data-v-40cd2034="" class="flight-information">VH8064 Operado por Fast Colombia SAS. Airbus A320</div></div> <!----> <!----></div> </div> <div data-v-7da0663e="" tabindex="0" class="segment-lowest-price"><div data-v-7da0663e="" class="from-label">Desde</div> <div data-v-7da0663e="" class="from-price">USD 47.59</div> <i data-v-7da0663e="" class="icon material-icons arrow-down-icon" style="color: rgb(0, 6, 86);"></i> <span data-v-7da0663e="" class="fare-class-tooltip">K</span></div></div></div> <div data-v-d289089e="" class="flight-details"><div data-v-d289089e="" class="fares"><!----></div></div> <!----> <!----></div><div data-v-d289089e="" data-v-db5d30f2="" id="Vkh_ODE3Mn4gfn5NREV_MTEvMDUvMjAxOSAxOToyMH5CT0d_MTEvMDUvMjAxOSAyMDoxN34-" class="flight"><div data-v-7da0663e="" data-v-d289089e="" class="" style="width: 100%;"><div data-v-7da0663e="" class="segment-summary"><div data-v-7da0663e="" style="width: 100%;"><div data-v-40cd2034="" data-v-7da0663e="" class="segment-detail"><div data-v-40cd2034="" class="locations"> <div data-v-40cd2034="" class="additional-info"><i data-v-40cd2034="" class="icon material-icons history-icon" style="color: rgb(0, 6, 86);">history</i> <div data-v-40cd2034="" class="duration">
+        57m - Vuelo directo
+        <!----></div></div> <div data-v-40cd2034="" class="location-wrapper"><div data-v-40cd2034="" class="location"><div data-v-40cd2034="" class="airport-code"><span data-v-40cd2034="" class="departure-text">Salida</span>
+          MDE
+        </div> <div data-v-40cd2034="" class="time">19:20</div></div> <div data-v-40cd2034="" class="duration-wrapper"><div data-v-40cd2034="" class="flight-icon-wrapper"><i data-v-40cd2034="" class="icon material-icons flight-icon" style="color: rgb(255, 218, 0);"></i></div></div> <div data-v-40cd2034="" class="location"><div data-v-40cd2034="" class="airport-code"><span data-v-40cd2034="" class="arrival-text">Llegada</span>
+          BOG
+        </div> <div data-v-40cd2034="" class="time">
+          20:17
+          <!----></div></div></div> <div data-v-40cd2034="" class="flight-information">VH8172 Operado por Fast Colombia SAS. Airbus A320</div></div> <!----> <!----></div> </div> <div data-v-7da0663e="" tabindex="0" class="segment-lowest-price"><div data-v-7da0663e="" class="from-label">Desde</div> <div data-v-7da0663e="" class="from-price">USD 47.59</div> <i data-v-7da0663e="" class="icon material-icons arrow-down-icon" style="color: rgb(0, 6, 86);"></i> <span data-v-7da0663e="" class="fare-class-tooltip">K</span></div></div></div> <div data-v-d289089e="" class="flight-details"><div data-v-d289089e="" class="fares"><!----></div></div> <!----> <!----></div><div data-v-d289089e="" data-v-db5d30f2="" id="Vkh_ODE5Nn4gfn5NREV_MTEvMDUvMjAxOSAyMDo0OH5CT0d_MTEvMDUvMjAxOSAyMTo0NX4-" class="flight"><div data-v-7da0663e="" data-v-d289089e="" class="" style="width: 100%;"><div data-v-7da0663e="" class="segment-summary"><div data-v-7da0663e="" style="width: 100%;"><div data-v-40cd2034="" data-v-7da0663e="" class="segment-detail"><div data-v-40cd2034="" class="locations"> <div data-v-40cd2034="" class="additional-info"><i data-v-40cd2034="" class="icon material-icons history-icon" style="color: rgb(0, 6, 86);">history</i> <div data-v-40cd2034="" class="duration">
+        57m - Vuelo directo
+        <!----></div></div> <div data-v-40cd2034="" class="location-wrapper"><div data-v-40cd2034="" class="location"><div data-v-40cd2034="" class="airport-code"><span data-v-40cd2034="" class="departure-text">Salida</span>
+          MDE
+        </div> <div data-v-40cd2034="" class="time">20:48</div></div> <div data-v-40cd2034="" class="duration-wrapper"><div data-v-40cd2034="" class="flight-icon-wrapper"><i data-v-40cd2034="" class="icon material-icons flight-icon" style="color: rgb(255, 218, 0);"></i></div></div> <div data-v-40cd2034="" class="location"><div data-v-40cd2034="" class="airport-code"><span data-v-40cd2034="" class="arrival-text">Llegada</span>
+          BOG
+        </div> <div data-v-40cd2034="" class="time">
+          21:45
+          <!----></div></div></div> <div data-v-40cd2034="" class="flight-information">VH8196 Operado por Fast Colombia SAS. Airbus A320</div></div> <!----> <!----></div> </div> <div data-v-7da0663e="" tabindex="0" class="segment-lowest-price"><div data-v-7da0663e="" class="from-label">Desde</div> <div data-v-7da0663e="" class="from-price">USD 41.26</div> <i data-v-7da0663e="" class="icon material-icons arrow-down-icon" style="color: rgb(0, 6, 86);"></i> <span data-v-7da0663e="" class="fare-class-tooltip">J</span></div></div></div> <div data-v-d289089e="" class="flight-details"><div data-v-d289089e="" class="fares"><!----></div></div> <!----> <!----></div></div> <!----> <!----></div> <!----></div> <div data-v-3cf116bc="" data-v-db5d30f2=""><div data-v-3cf116bc=""><div data-v-dd3975f8="" data-v-3cf116bc="" class="flight-message"><div data-v-1f0774b8="" data-v-dd3975f8="" class="notification-box" style="background-color: rgb(249, 231, 137);"><div data-v-1f0774b8="" class="icon svg-icon" style="width: 40px;"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 97 98.6" style="enable-background:new 0 0 97 98.6;" xml:space="preserve"><style type="text/css"> .st0{fill:#000656;} </style><g><text transform="matrix(1 0 0 1 -176.0549 55.7336)" class="st0" style="font-family:'CenturyGothic-Bold'; font-size:19.1528px;">Info</text></g><g><path class="st0" d="M24.7,50.7c0-1.2,0-2.4,0-3.6c0.1-0.8,0.3-1.5,0.4-2.3c1.3-8.3,8.1-15.9,16.3-17.9c1.4-0.4,2.8-0.6,4.2-0.9 c1.2,0,2.5,0,3.7,0c0.2,0.1,0.3,0.1,0.5,0.1c2.7,0.3,5.3,1.1,7.8,2.3c9.1,4.4,14.2,15,12.1,24.8C67.3,65,56.5,72.6,45,71.4 c-9.2-1-17.3-7.9-19.5-17C25.2,53.2,25,51.9,24.7,50.7z M43.1,54.8L43.1,54.8c0,1.7,0,3.4,0,5.2c0,2.5,1.7,4.3,4.1,4.5 c2.5,0.1,4.5-1.5,4.6-4c0.1-3.7,0.1-7.5,0-11.2c-0.1-2.5-2.1-4.1-4.5-4c-2.3,0.1-4.1,2-4.1,4.4C43.1,51.3,43.1,53,43.1,54.8z M47.5,41.8c2.4,0,4.4-2,4.4-4.4c0-2.3-2-4.3-4.4-4.3c-2.4,0-4.4,2-4.4,4.4C43.2,39.9,45.1,41.8,47.5,41.8z"></path></g></svg></div> <div data-v-1f0774b8="" class="content"><div data-v-dd3975f8="" class="no-typography-margin" data-v-1f0774b8=""><p><strong>NOTA: </strong>Durante el proceso de compra hemos pre seleccionado algunos servicios adicionales que mejorarán tu experiencia de viaje.</p></div></div></div></div></div><!----><!----><div data-v-3cf116bc=""><div data-v-dd3975f8="" data-v-3cf116bc="" class="flight-message"><div data-v-1f0774b8="" data-v-dd3975f8="" class="notification-box" style="background-color: rgb(249, 231, 137);"><div data-v-1f0774b8="" class="icon svg-icon" style="width: 40px;"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 97 98.6" style="enable-background:new 0 0 97 98.6;" xml:space="preserve"><style type="text/css"> .st0{fill:#000656;} </style><g><text transform="matrix(1 0 0 1 -176.0549 55.7336)" class="st0" style="font-family:'CenturyGothic-Bold'; font-size:19.1528px;">Info</text></g><g><path class="st0" d="M24.7,50.7c0-1.2,0-2.4,0-3.6c0.1-0.8,0.3-1.5,0.4-2.3c1.3-8.3,8.1-15.9,16.3-17.9c1.4-0.4,2.8-0.6,4.2-0.9 c1.2,0,2.5,0,3.7,0c0.2,0.1,0.3,0.1,0.5,0.1c2.7,0.3,5.3,1.1,7.8,2.3c9.1,4.4,14.2,15,12.1,24.8C67.3,65,56.5,72.6,45,71.4 c-9.2-1-17.3-7.9-19.5-17C25.2,53.2,25,51.9,24.7,50.7z M43.1,54.8L43.1,54.8c0,1.7,0,3.4,0,5.2c0,2.5,1.7,4.3,4.1,4.5 c2.5,0.1,4.5-1.5,4.6-4c0.1-3.7,0.1-7.5,0-11.2c-0.1-2.5-2.1-4.1-4.5-4c-2.3,0.1-4.1,2-4.1,4.4C43.1,51.3,43.1,53,43.1,54.8z M47.5,41.8c2.4,0,4.4-2,4.4-4.4c0-2.3-2-4.3-4.4-4.3c-2.4,0-4.4,2-4.4,4.4C43.2,39.9,45.1,41.8,47.5,41.8z"></path></g></svg></div> <div data-v-1f0774b8="" class="content"><div data-v-dd3975f8="" class="no-typography-margin" data-v-1f0774b8=""><p><strong>Los precios indicados&nbsp;son por trayecto y&nbsp;por persona e incluyen impuestos y tasas aeroportuarias.&nbsp;Cualquier equipaje adicional diferente al incluido en la tarifa seleccionada,&nbsp;tendrá un costo adicional<a target="_blank" rel="noopener" href="https://app.vivaair.com/co/es/servicios-adicional_tarifas">.</a>&nbsp;Para conocer&nbsp;los precios de los servicios adicionales ve a la sección Viaja con Viva Air.</strong></p></div></div></div></div></div></div></div> <!----> <!----></div> <!----> <div class="description"><p>Declaro que he leído y acepto las políticas de cambios, términos y condiciones de reembolsos, desistimiento y de retracto de la aerolínea. Acepto que la tarifa que he seleccionado es promocional y por lo tanto no es reembolsable a menos que aplique algunas de las políticas anteriormente mencionadas. Declaro que acepto las condiciones de esta compra y autorizo recibir información adicional asociada a esta transacción a mi correo electrónico.</p></div> <div class="next-step-button-container"><div class="terms-and-conditions"><span>Al dar clic en continuar aceptas</span> <a href="#">las políticas y condiciones</a> <span>de Viva Air</span></div> <div data-v-23d1314b="" class="form-group button-container next-button float-right"><button data-v-23d1314b="" type="button" id="9erGuQWc" class="button with-icon-right" style="background-color: rgb(202, 0, 0); color: rgb(255, 255, 255); font-weight: bold; min-width: 100%;"><i data-v-23d1314b="" class="button-icon material-icons" style="display: none;"></i> <span data-v-23d1314b="" class="">Continuar</span>  <i data-v-23d1314b="" class="button-icon button-icon-right material-icons"></i></button></div></div></div></div> <!----> <!----></div></div> <div data-v-6b9ad6c4="" id="bottom"></div></div> <!----> <div data-v-6b9ad6c4=""><div data-v-bc297690=""><!----></div> <div data-v-bc297690=""><!----></div></div></div> <div id="modals-container"></div> <div></div> <!----> <div data-v-af501068=""><!----></div> <div data-v-bc297690=""><!----></div> <div data-v-bc297690=""><!----></div> <!----></div><noscript>In order to use this site, you need JavaScript enabled.</noscript><script>!function(){"use strict";const e=Boolean("localhost"===window.location.hostname||"[::1]"===window.location.hostname||window.location.hostname.match(/^127(?:\.(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)){3}$/));window.addEventListener("load",function(){"serviceWorker"in navigator&&("https:"===window.location.protocol||e)&&navigator.serviceWorker.register("/service-worker.js").then(function(e){e.onupdatefound=function(){if(navigator.serviceWorker.controller){const n=e.installing;n.onstatechange=function(){switch(n.state){case"installed":document.getElementById("app").dispatchEvent(new Event("newserviceworkerinstalled"));break;case"redundant":throw new Error("The installing service worker became redundant.")}}}}}).catch(function(e){console.error("Error during service worker registration:",e)})})}();</script><script type="text/javascript" src="/static/js/app.69e0ca43e8db3c94536c.js"></script><script type="text/javascript" src="/static/js/30.316f0e634dab0e0f42c4.js"></script><div><div class="toast-container toast-top-right"></div><div class="toast-container toast-bottom-right"></div><div class="toast-container toast-bottom-left"></div><div class="toast-container toast-top-left"></div><div class="toast-container toast-top-full-width"></div><div class="toast-container toast-bottom-full-width"></div><div class="toast-container toast-top-center"></div><div class="toast-container toast-bottom-center"></div></div><script src="/static/boxever/00_all_pages.js"></script>
+<script type="text/javascript" id="">!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("init","361054207590981");fbq("track","PageView");</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=361054207590981&amp;ev=PageView&amp;noscript=1"></noscript>
+
+
+
+
+<script type="text/javascript" id="">!function(){var a=document.createElement("script");a.type="text/javascript";a.async=!0;a.src="//www.rtb123.com/tags/C37D0BFC-8B0C-4CBD-A0CE-E426CA8DD8A0/btp.js";var b=document.getElementsByTagName("head")[0];b?b.appendChild(a,b):(b=document.getElementsByTagName("script")[0]).parentNode.insertBefore(a,b)}();</script><script type="text/javascript" id="">(function(d,a,b,f,e){d[e]=d[e]||[];d[e].push({projectId:"10000",properties:{pixelId:"10053833"}});var c=a.createElement(b);c.src=f;c.async=!0;c.onload=c.onreadystatechange=function(){var a=this.readyState,c=d[e];if(!a||"complete"==a||"loaded"==a)try{var b=YAHOO.ywa.I13N.fireBeacon;d[e]=[];d[e].push=function(a){b([a])};b(c)}catch(g){}};a=a.getElementsByTagName(b)[0];b=a.parentNode;b.insertBefore(c,a)})(window,document,"script","https://s.yimg.com/wi/ytc.js","dotq");</script><meta name="google-site-verification" content="EQvF0kNIKU7sgOBgz_MQWxpK2X6jtBUglirxuOkL5gk"><script type="text/javascript" id="">var url=window.location.href,keyToFind="kayakclickid";if(-1<url.indexOf(keyToFind+"\x3d")){var valueFound=url.substr(url.indexOf(keyToFind+"\x3d")+keyToFind.length+1).split("\x26")[0];localStorage.setItem(keyToFind,valueFound)};</script> <script type="text/javascript" id="">(function(){try{"/co"==google_tag_manager["GTM-WB5JLNZ"].macro(4)&&dataLayer.push({event:"fireDRATag",google_tag_params:{flight_pagetype:"home"}})}catch(a){}})();</script><script type="text/javascript" id="">"app.vivaair.com"===window.location.host&&window.location.replace("https://www.vivaair.com");</script><script src="/static/boxever/01_home_page.js"></script><iframe name="_hjRemoteVarsFrame" title="_hjRemoteVarsFrame" id="_hjRemoteVarsFrame" src="https://vars.hotjar.com/box-74dcf4e32eff343c96838bf3a780ac1d.html" style="display: none !important; width: 1px !important; height: 1px !important; opacity: 0 !important; pointer-events: none !important;"></iframe><iframe height="0" width="0" style="display: none; visibility: hidden;" src="//9471019.fls.doubleclick.net/activityi;src=9471019;type=boxev0;cat=boxev0;ord=147846012272;gtm=2wgan1;auiddc=1456884061.1572908335;u1=;~oref=https%3A%2F%2Fwww.vivaair.com%2Fco%2Fes?"></iframe><script type="application/javascript" id="ywa-1572908336674-392017" class="ywa-10000" defer="" src="https://sp.analytics.yahoo.com/sp.pl?a=10000&amp;jsonp=YAHOO.ywa.I13N.handleJSONResponse&amp;d=Mon%2C%2004%20Nov%202019%2022%3A58%3A56%20GMT&amp;n=5&amp;.yp=10053833&amp;f=https%3A%2F%2Fwww.vivaair.com%2Fco%2Fes&amp;enc=UTF-8"></script><script type="text/javascript" id="">(function(){var b={"@context":"http://schema.org/","@type":"Airline",iataCode:"vivaair",address:{"@type":"PostalAddress",addressCountry:"Colombia",addressLocality:"Rionegro",addressRegion:"Antioquia",streetAddress:"La Gran Via El Porvenir"},telephone:"Medell\u00edn: (4) 6044900;Barranquilla: (5) 3855555;Cali: (2) 4856666;Cartagena: (5) 6937777;Pereira: (6) 3401001;Bucaramanga (7) 6973444;Bogot\u00e1: (1) 7433999;L\u00ednea nacional 019005558989".split(";"),mainEntityOfPage:["https://www.vivaair.com/co/es",
+"https://www.vivaair.com"],name:["Viva Air","Viva Air"],foundingDate:"16 de septiembre de 2009"},a=document.createElement("script");a.type="application/ld+json";a.innerHTML=JSON.stringify(b);document.getElementsByTagName("head")[0].appendChild(a)})(document);</script><iframe height="0" width="0" style="display: none; visibility: hidden;" src="//9471019.fls.doubleclick.net/activityi;src=9471019;type=searc0;cat=searc0;ord=2968962478163;gtm=2wgan1;auiddc=1456884061.1572908335;u1=571c7fab-5ff5-4bdb-bfc0-8189bb92179f;u2=MDE;u3=BOG;u4=MDE-BOG;u5=undefined;u6=undefined;u7=2019-11-05;u8=2019-11-05;u9=2;u10=0;u11=0;u12=Medell%C3%ADn;u13=Bogota;u15=00000;u16=Error%20dataLayer;~oref=https%3A%2F%2Fwww.vivaair.com%2Fco%2Fes%2Fvuelo%3FDepartureCity%3DMDE%26ArrivalCity%3DBOG%26DepartureDate%3D2019-11-05%26Adults%3D2%26Currency%3DUSD?"></iframe><script type="text/javascript" id="">Boxever.browserShow(Boxever.getID(),0,function(a){a=a.customer.ref;localStorage.setItem("boxever",a)},"json");</script><script type="text/javascript" id="">fbq("track","Search",{content_type:"flight",search_string:"MDE-BOG",departing_departure_date:"2019-11-05",returning_departure_date:"undefined",origin_airport:"MDE",destination_airport:"BOG",departing_arrival_date:"2019-11-05",returning_arrival_date:"undefined",num_adults:google_tag_manager["GTM-WB5JLNZ"].macro(39),num_children:google_tag_manager["GTM-WB5JLNZ"].macro(40),num_infants:google_tag_manager["GTM-WB5JLNZ"].macro(41),travel_class:"economy"});</script><script type="text/javascript" id="">var viajala_conversion_params={event:"redirect",supplier:"vivaair",origin:"MDE",destination:"BOG",passengers:parseInt(google_tag_manager["GTM-WB5JLNZ"].macro(42))+parseInt(google_tag_manager["GTM-WB5JLNZ"].macro(43))+parseInt(google_tag_manager["GTM-WB5JLNZ"].macro(44)),outwardDate:"2019-11-05",inwardDate:"undefined"};</script>
+<script type="text/javascript" id="" src="//cdn.viajala.com/tracking/conversion.js"></script><script src="/static/boxever/02_booking_page_on_page_load.js"></script><img id="viajala_conversion_img" style="visibility:hidden;display:none" src="https://viajala.com/services/tracking/sales?event=redirect&amp;supplier=vivaair&amp;origin=MDE&amp;destination=BOG&amp;passengers=2&amp;outwardDate=2019-11-05&amp;inwardDate=undefined"></body></html>

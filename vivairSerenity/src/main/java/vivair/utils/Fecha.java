@@ -1,17 +1,21 @@
 package vivair.utils;
-import java.util.Calendar;
+import java.text.SimpleDateFormat;
 import java.util.Date;
 
 public class Fecha {
 	
 
-	public static String generarFecha() { 
-	
-		Calendar calendario = Calendar.getInstance();
-		Date date = null;
-		calendario.setTime(date);
-		return generarFecha();
+	public static String generarFecha() {
+		SimpleDateFormat format = new SimpleDateFormat("yyyy-MM-dd");
+		return format.format(new Date());
 		
+//		return format.parse(dateString);
+//	
+//		Calendar calendario = Calendar.getInstance();
+//		Date date = null;
+//		calendario.setTime(date);
+//		return generarFecha();
+//		
 //		int a = fecha.(Calendar.YEAR);
 //		int m = fecha.get(Calendar.MONTH) + 1;
 //		int d = fecha.get(Calendar.DAY_OF_MONTH);

@@ -1,12 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Yo como usuario requiero consultar los vuelos disponibles en la fecha requerida" skipped="0" tests="1" time="15.35" timestamp="2019-11-01 03:12:23"><testcase name="Diligenciar formulario"><error type="java.lang.NullPointerException"/><system-err>null&#13;
-vivair.utils.Fecha.generarFecha(Fecha.java:12)&#13;
-vivair.tasks.LlenarFormularioTasks.performAs(LlenarFormularioTasks.java:30)&#13;
-vivair.definitions.vivairDefinitions.seDiligencianLosDatosDelFormulario(vivairDefinitions.java:38)&#13;
-cucumber.runner.Runner.runPickle(Runner.java:80)&#13;
-org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:89)&#13;
-org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:41)&#13;
-org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:541)&#13;
-org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:763)&#13;
-org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:463)&#13;
-org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:209)&#13;
-</system-err></testcase></testsuite>
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Yo como usuario requiero consultar los vuelos disponibles en la fecha requerida" skipped="0" tests="1" time="47.38" timestamp="2019-11-04 06:20:49"><testcase name="Diligenciar formulario"/></testsuite>
