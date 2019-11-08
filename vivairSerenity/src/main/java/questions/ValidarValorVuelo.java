@@ -27,9 +27,9 @@ public class ValidarValorVuelo implements Question<String> {
         //.boxed()
         .collect(Collectors.toList()); // pasamos de stream a una List
 		
-		System.out.println(precios.toString());
+		//System.out.println(precios.toString());
 		Collections.sort(precios); // se ordenan de manera ascendente
-		System.out.println(precios.toString());
+		//System.out.println(precios.toString());
 		
 		return precios.get(0).toString(); //retorno el primer valor de la lista
 	}

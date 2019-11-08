@@ -15,7 +15,7 @@ public class Driver {
 	}
 	
 	public WebDriver chromeDriverAbrirUrl(String url) {
-		System.setProperty("webdriver.chrome.driver", "C:\\ProgramData\\chocolatey\\lib\\chromedriver\\tools\\chromedriver.exe");
+		//System.setProperty("webdriver.chrome.driver", "C:\\ProgramData\\chocolatey\\lib\\chromedriver\\tools\\chromedriver.exe");
 		ChromeOptions chromeOptions = new ChromeOptions();
 		chromeOptions.addArguments("start-maximized", "insognito");
 		driver = new ChromeDriver(chromeOptions);

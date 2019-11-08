@@ -39,7 +39,7 @@ public class LlenarFormularioTasks implements Task{
 			Enter.theValue(datosFormulario.get(0).get("destino")).into(FormularioUI.SELECCIONA_DESTINO).thenHit(Keys.ENTER),
 			//WaitUntil.the(FormularioUI.SELECCIONA_FECHA, WebElementStateMatchers.isCurrentlyEnabled()),
 			Click.on(FormularioUI.SELECCIONA_FECHA),
-			Click.on(FormularioUI.CLICK_FECHA.of("2019-11-05")),
+			Click.on(FormularioUI.CLICK_FECHA.of(Fecha.generarFecha())),
 			Click.on(FormularioUI.PASAJERO));
 		
 		int totalPasajeros = Integer.parseInt(datosFormulario.get(0).get("num_pasajeros")); //con parseInt se convierte el vamor de num_pasajeros de string a int
