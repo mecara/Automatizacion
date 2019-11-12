@@ -13,7 +13,7 @@ import cucumber.api.SnippetType;
 		glue = "com.capacitacion.hoteles.definitions"
 		)
 
-public class hoteles {
+public class Hoteles {
 
 
 }
