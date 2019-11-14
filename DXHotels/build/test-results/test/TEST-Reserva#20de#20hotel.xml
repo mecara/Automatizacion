@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Reserva de hotel" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-10-28T22:34:59" hostname="DESKTOP-CSKDE4O" time="29.023">
+  <properties/>
+  <testcase name="Reserva de la tarifa mas economica del hotel" classname="Reserva de hotel" time="29.023"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[oct 28, 2019 5:34:59 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFORMACIÓN: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Starting ChromeDriver 77.0.3865.40 (f484704e052e0b556f8030b65b953dce96503217-refs/branch-heads/3865@{#442}) on port 22158
+Only local connections are allowed.
+Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+[1572302104.075][WARNING]: Timed out connecting to Chrome, retrying...
+oct 28, 2019 5:35:06 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
+        __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
+  _     \ \  |_   _| ____/ ___|_   _| |  _ \ / \  / ___|/ ___|| ____|  _ \ 
+ (_)_____| |   | | |  _| \___ \ | |   | |_) / _ \ \___ \\___ \|  _| | | | |
+  _|_____| |   | | | |___ ___) || |   |  __/ ___ \ ___) |___) | |___| |_| |
+ (_)     | |   |_| |_____|____/ |_|   |_| /_/   \_\____/|____/|_____|____/ 
+        /_/                                                                
+
+TEST PASSED: Reserva de la tarifa mas economica del hotel
+----------------------------------------------------------------------------
+]]></system-err>
+</testsuite>
